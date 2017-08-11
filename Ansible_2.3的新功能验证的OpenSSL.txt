@@ -1,6 +1,6 @@
 介绍
 
-在开发阶段安装Ansible 2.3和执行的密码模块openssl_privatekey，openssl_publickey并确认结果。通过使用此模块，您可以创建私钥和公钥。
+在开发阶段安装Ansible2.3和执行的密码模块openssl_privatekey，openssl_publickey并确认结果。通过使用此模块，您可以创建私钥和公钥。
 这是需要事先安装pyOpenSSL。
 
 参考：Ansible手册
