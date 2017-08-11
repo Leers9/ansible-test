@@ -38,6 +38,7 @@ openssl.yml
   become: true
   roles:
     - { role: openssl }
+
 roles/openssl/tasks/main.yml
 ---
 - openssl_privatekey:
@@ -46,6 +47,7 @@ roles/openssl/tasks/main.yml
 - openssl_publickey:
     path: '{{ pub_key }}'
     privatekey_path: '{{ prv_key }}'
+
 roles/openssl/vars/main.yml
 ---
     prv_key: /tmp/priv_key.pem
@@ -53,7 +55,7 @@ roles/openssl/vars/main.yml
 
  
 测试运行
-运行ansible-剧本。
+运行ansible-playbook。
 
 [root@ansible-server]# ansible-playbook openssl.yml
 
