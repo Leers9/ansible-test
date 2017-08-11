@@ -1,0 +1,84 @@
+介绍
+
+安装Ansible发展阶段的2.3，我们通过运行openssl_privatekey确认的结果是密码模块，该openssl_publickey。
+通过使用此模块，您可以创建一个公钥和私钥。
+有必要安装预pyOpenSSL。
+
+参考：Ansible手册
+openssl_privatekey -生成OpenSSL的私钥。
+http://docs.ansible.com/ansible/latest/openssl_privatekey_module.html
+http://docs.ansible.com/ansible/latest/openssl_publickey_module.html
+openssl_publickey -生成的私人密钥的OpenSSL的公钥。
+
+准备安装
+安装pyOpenSSL。
+
+[root@ansible-server base]# pip install pyOpenSSL
+Collecting pyOpenSSL
+ Downloading pyOpenSSL-16.2.0-py2.py3-none-any.whl (43kB)
+ 100% |????????????????????????????????| 51kB 570kB/s
+Requirement already satisfied: cryptography>=1.3.4 in /usr/local/lib/python2.7/site-packages (from pyOpenSSL)
+Requirement already satisfied: six>=1.5.2 in /usr/local/lib/python2.7/site-packages (from pyOpenSSL)
+Requirement already satisfied: idna>=2.0 in /usr/local/lib/python2.7/site-packages (from cryptography>=1.3.4->pyOpenSSL)
+Requirement already satisfied: pyasn1>=0.1.8 in /usr/local/lib/python2.7/site-packages (from cryptography>=1.3.4->pyOpenSSL)
+Requirement already satisfied: setuptools>=11.3 in /usr/local/lib/python2.7/site-packages (from cryptography>=1.3.4->pyOpenSSL)
+Requirement already satisfied: enum34 in /usr/local/lib/python2.7/site-packages (from cryptography>=1.3.4->pyOpenSSL)
+Requirement already satisfied: ipaddress in /usr/local/lib/python2.7/site-packages (from cryptography>=1.3.4->pyOpenSSL)
+Requirement already satisfied: cffi>=1.4.1 in /usr/local/lib/python2.7/site-packages (from cryptography>=1.3.4->pyOpenSSL)
+Requirement already satisfied: pycparser in /usr/local/lib/python2.7/site-packages (from cffi>=1.4.1->cryptography>=1.3.4->pyOpenSSL)
+Installing collected packages: pyOpenSSL
+Successfully installed pyOpenSSL-16.2.0
+
+
+创建YAML。
+openssl.yml
+---
+- name: Deploy openssl
+  hosts: localhost
+  gather_facts: False
+  become: true
+  roles:
+    - { role: openssl }
+roles/openssl/tasks/main.yml
+---
+- openssl_privatekey:
+    path: '{{ prv_key }}'
+
+- openssl_publickey:
+    path: '{{ pub_key }}'
+    privatekey_path: '{{ prv_key }}'
+roles/openssl/vars/main.yml
+---
+    prv_key: /tmp/priv_key.pem
+    pub_key: /tmp/pub_key.pem
+
+ 
+测试运行
+运行ansible-剧本。
+
+[root@ansible-server]# ansible-playbook openssl.yml
+
+确保只有确定和执行结果变化大于或等于零。
+
+PLAY [Deploy openssl] ***********************************
+
+TASK [openssl : openssl_privatekey] *********************
+ok: [localhost]
+
+TASK [openssl : openssl_publickey] ***********************
+changed: [localhost]
+
+PLAY RECAP ************************************************
+localhost  : ok=2    changed=1    unreachable=0    failed=0
+
+结果确认
+确保公共密钥和私人密钥已创建。
+
+[root@ansible-server base]# ls -l /tmp/priv_key.pem
+-rw------- 1 root root 3272  4月 11 01:25 2017 /tmp/priv_key.pem
+[root@ansible-server base]# ls -l /tmp/pub_key.pem
+-rw-r--r-- 1 root root 800  4月 11 01:25 2017 /tmp/pub_key.pem
+
+摘要
+如果再帮助谁从事Ansible我们希望的人。
+https://awsbloglink.wordpress.com/2017/04/16/ansible-2-3-%E6%96%B0%E6%A9%9F%E8%83%BD-openssl-%E6%A4%9C%E8%A8%BC/
