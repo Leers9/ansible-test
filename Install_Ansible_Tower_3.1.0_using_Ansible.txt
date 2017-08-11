@@ -1,0 +1,95 @@
+Introduction
+
+Install Ansible Tower version 3.1.0 on AWS EC 2 using Ansible.
+It is necessary to set rabbitmq_password in version 3.1.0.
+Japanese display is now available from the new version.
+ansibletower3.1
+
+Preparation
+
+Define YAML to install Ansible Tower.
+
+ansible_tower.yml
+
+---
+- name: Deploy Ansible
+  hosts: tag_srv_ansible
+  gather_facts: False
+  become: true
+  roles:
+    - { role: ansible_tower }
+roles/ansible_tower/tasks/main.yml
+
+---
+- name: yum install/wget
+  yum: name=wget state=latest
+  with_items:
+     - wget
+
+- name: unarchive/ansible-tower-setup-latest.tar.gz
+  unarchive:
+    src: http://releases.ansible.com/ansible-tower/setup/ansible-tower-setup-latest.tar.gz
+    dest: /tmp
+    remote_src: True
+
+- name: replace/pg_password
+  replace:
+    dest: /tmp/ansible-tower-setup-3.1.0/inventory
+    regexp: "pg_password=''"
+    replace: "pg_password='sample'"
+
+- name: replace/admin_password
+  replace:
+    dest: /tmp/ansible-tower-setup-3.1.0/inventory
+    regexp: "admin_password=''"
+    replace: "admin_password='password'"
+
+- name: replace/redis_password
+  replace:
+    dest: /tmp/ansible-tower-setup-3.1.0/inventory
+    regexp: "redis_password=''"
+    replace: "redis_password='password'"
+
+- name: replace/redis_password
+  replace:
+    dest: /tmp/ansible-tower-setup-3.1.0/inventory
+    regexp: "rabbitmq_password=''"
+    replace: "rabbitmq_password='password'"
+
+- name: shell/setup.sh
+  shell: /tmp/ansible-tower-setup-3.1.0/setup.sh
+Execution
+
+Run ansible-playbook.
+
+[root@ansible-server base]# ansible-playbook ansible_tower.yml
+Make sure that only ok and changed are 0 or more in the execution result.
+
+PLAY [Deploy Ansible] **********************************************
+
+TASK [ansible_tower : yum install/wget] ****************************
+ok: [54.249.106.36] => (item=wget)
+
+TASK [ansible_tower : unarchive/ansible-tower-setup-latest.tar.gz] *
+changed: [54.249.106.36]
+
+TASK [ansible_tower : replace/pg_password] *************************
+changed: [54.249.106.36]
+
+TASK [ansible_tower : replace/admin_password] **********************
+changed: [54.249.106.36]
+
+TASK [ansible_tower : replace/redis_password] **********************
+changed: [54.249.106.36]
+
+TASK [ansible_tower : shell/setup.sh] ******************************
+changed: [54.249.106.36]
+
+PLAY RECAP *********************************************************
+54.249.106.36 : ok=6 changed=5 unreachable=0 failed=0
+Summary
+
+Please enjoy Ansible Tower version 3.1.0 .
+Please refactor YAML freely.
+
+https://awsbloglink.wordpress.com/2017/03/08/install-ansible-tower-3-1-0-using-ansible/
