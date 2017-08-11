@@ -6,8 +6,8 @@
 参考：Ansible手册
 openssl_privatekey -生成OpenSSL的私钥。
 http://docs.ansible.com/ansible/latest/openssl_privatekey_module.html
-http://docs.ansible.com/ansible/latest/openssl_publickey_module.html
 openssl_publickey -生成的私人密钥的OpenSSL的公钥。
+http://docs.ansible.com/ansible/latest/openssl_publickey_module.html
 
 准备安装
 安装pyOpenSSL。
