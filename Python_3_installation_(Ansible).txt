@@ -1,0 +1,114 @@
+Introduction
+
+The procedure for installing Python 3 in RHEL 7.3 of AWS EC 2 is described.
+
+[1]YAML
+
+test.yml
+
+---
+- name: Python 3 install
+  hosts: ec2
+  gather_facts: False
+  become: true
+  roles:
+   - { role: common }
+   - { role: python }
+roles/python/tasks/main.yml
+
+---
+- name: yum
+  yum: name={{item}} state=latest
+  with_items: "{{ python_yum }}"
+
+- name: unarchive
+  unarchive:
+    src: "{{ python_url }}"
+    dest: "{{ python_tmp }}"
+    remote_src: True
+  register: reg
+
+- name: make
+  shell: cd "{{ python_dir }}" && ./configure --prefix=/usr/local/python && make && make install
+
+- file:
+    src: '{{ item.src }}'
+    dest: '{{ item.dest }}'
+    state: link
+  with_items:
+    - { src: '/usr/local/python/bin/python3', dest: '/usr/local/bin/python' }
+    - { src: '/usr/local/python/bin/pip3'   , dest: '/usr/local/bin/pip'    }
+roles/python/vars/main.yml
+
+---
+python_tmp: /tmp
+python_url: https://www.python.org/ftp/python/3.6.1/Python-3.6.1.tgz
+python_dir: /tmp/Python-3.6.1
+python_yum:
+   - wget
+   - zlib-devel
+   - bzip2-devel
+   - openssl-devel
+   - ncurses-devel
+   - sqlite-devel
+   - readline-devel
+   - tk-devel
+   - gcc
+roles/common/tasks/main.yml
+
+---
+- name: configure / Update yum packages
+  yum:
+    name: '*'
+    state: latest
+    update_cache: yes
+[2]Run Ansible
+
+ansible-playbook -i inventory/aws test.yml
+
+PLAY [Python 3 install] ******************************************************************************************************
+
+TASK [common : configure / Update yum packages] ******************************************************************************
+changed: [54.238.208.177]
+
+TASK [python : yum] **********************************************************************************************************
+changed: [54.238.208.177] => (item=[u'wget', u'zlib-devel', u'bzip2-devel', u'openssl-devel', u'ncurses-devel', u'sqlite-devel', u'readline-devel', u'tk-devel', u'gcc'])
+
+TASK [python : unarchive] ****************************************************************************************************
+changed: [54.238.208.177]
+
+TASK [python : make] *********************************************************************************************************
+changed: [54.238.208.177]
+
+TASK [python : file] *********************************************************************************************************
+changed: [54.238.208.177] => (item={u'dest': u'/usr/local/bin/python', u'src': u'/usr/local/python/bin/python3'})
+changed: [54.238.208.177] => (item={u'dest': u'/usr/local/bin/pip', u'src': u'/usr/local/python/bin/pip3'})
+
+PLAY RECAP *******************************************************************************************************************
+54.238.208.177             : ok=5    changed=5    unreachable=0    failed=0
+[3]Python Installation Confirmation
+
+[root@ansible base]#   ssh -i /tmp/aws_v2.pem ec2-user@54.238.208.177
+The authenticity of host '54.238.208.177 (54.238.208.177)' can't be established.
+ECDSA key fingerprint is 2d:aa:5f:c5:c9:04:31:f0:26:66:1e:6c:f9:ed:70:3e.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '54.238.208.177' (ECDSA) to the list of known hosts.
+Last login: Wed Jun 14 08:29:22 2017 from kd106154107222.au-net.ne.jp
+[ec2-user@ip-172-31-20-58 ~]$ sudo su -
+[root@ip-172-31-20-58 ~]# python --version
+Python 3.6.1
+[root@ip-172-31-20-58 ~]# pip --version
+pip 9.0.1 from /usr/local/python/lib/python3.6/site-packages (python 3.6)
+[root@ip-172-31-20-58 ~]# exit
+logout
+[ec2-user@ip-172-31-20-58 ~]$ exit
+ログアウト
+Connection to 54.238.208.177 closed.
+Summary
+
+You can now use Python 3 and pip 3.
+
+I will increase the role of Python in the future.
+
+I would be pleased if you are useful for those involved in Ansible and Python.
+https://awsbloglink.wordpress.com/2017/06/14/python-3-installation-ansible/
