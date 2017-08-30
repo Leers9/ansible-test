@@ -1,0 +1,152 @@
+---
+#
+# Defaults for nginx role
+#
+
+# OS family dependent vars are locate in vars/{{ansible_os_family}}.yml
+
+# Run some tasks with no_log enabled to avoid information disclosure
+# (ssl certs, etc)
+nginx_no_log: true
+
+# Start Nginx, and enable the service
+nginx_enabled: true
+
+# Configuration prefix
+nginx_prefix: /etc/nginx
+
+nginx_sites_available: "{{nginx_prefix}}/sites-available"
+nginx_sites_enabled:   "{{nginx_prefix}}/sites-enabled"
+
+nginx_config_dir: "{{nginx_prefix}}/conf.d"
+nginx_ssl_dir:    "{{nginx_prefix}}/ssl"
+nginx_log_dir:    "/var/log/nginx"
+
+# Symlink to log dir
+#  Sometimes logs are required to be put on a different FS, in which case
+#  you should define nginx_log_symlink_src to the location where the logs
+#  should be placed (i.e. /mnt/log/nginx). A symlink will be then created
+#  to point to this directory, from nginx_log_dir.
+nginx_log_symlink_src: False
+
+# Default config
+nginx_pid_file: /var/run/nginx.pid;
+
+nginx_context_main_default: |
+  worker_rlimit_nofile 4096;
+  worker_processes auto;
+
+nginx_context_events_default: |
+  worker_connections 768;
+
+nginx_context_http_default: |
+  sendfile    on;
+  tcp_nopush  on;
+  tcp_nodelay on;
+  
+  include {{nginx_prefix}}/mime.types;
+  default_type application/octet-stream;
+
+  keepalive_timeout   65;
+  types_hash_max_size 2048;
+
+  gzip on;
+  gzip_disable "msie6";
+
+  #gzip_vary on;
+  #gzip_proxied any;
+  #gzip_comp_level 6;
+  #gzip_buffers 16 8k;
+  #gzip_http_version 1.1;
+  #gzip_types text/plain 
+  #   text/css 
+  #   application/json 
+  #   application/x-javascript 
+  #   text/xml 
+  #   application/xml 
+  #   application/xml+rss 
+  #   text/javascript;
+
+
+# Cache dirs to be created
+#  Hash that holds the path to caching directories, that can be used in caching
+#  directives (*_cache_path)
+#
+# nginx_cache_dirs:
+#   fastcgi:
+#     prefix: /some/dir/cache/fastcgi # (required)
+#     mode:   0750                    # (optional - defaults to 0750)
+#   images:
+#     prefix: /some/dir/cache/images
+#     mode:   0755
+#
+# And on the nginx_config setting, you can specify something like this:
+#
+# nginx_config:
+#   caching: |
+#     fastcgi_cache_path {{nginx_cache_dirs.fastcgi}} levels=1:2 keys_zone=app:100m inactive=60m;
+#     proxy_cache_path   {{nginx_cache_dirs.images}}  levels=1:2 keys_zone=images:100m inactive=60m;
+#
+nginx_cache_dirs: {}
+
+# Nginx workers
+nginx_workers: 4
+
+# Nginx server configs
+# nginx_config:
+#   log_formats: |
+#     log_format main '$remote_addr - $remote_user [$time_local] '
+#       '"$request" $status $body_bytes_sent '
+#       '"$http_referer" "$http_user_agent" '
+#       '"$http_x_forwarded_for" $request_time';
+#
+nginx_config: {}
+  
+
+# Nginx Vhosts example
+#
+#nginx_vhosts:
+#  # Each item on the list, represents a virtualhost configuration
+#  - server_name: foo.bar
+#    root: /var/www/foo.bar/html
+#    # If you have defined a log format on the nginx_config settings
+#    # you can reference it in a virtualhost defining log_fmt
+#    log_fmt: format_name
+#    # Enable logrotate for this vhost
+#    logrotate_enabled: true
+#    # If you want to specify your own directives, you can
+#    # If you want to know the defaults, take a pic to the template
+#    logrotate_directives: |
+#      create 0644 user group
+#      weekly
+#      compress
+#    ssl_enabled: true
+#    certs:
+#      # Certificates can be specified in a couple of different ways
+#      # Inline: (bad for your security)
+#      key: |
+#        ----- BEGIN -----
+#        ...
+#        ----- END   -----
+#      # From a vault var: (good for your security)
+#      crt:   {{vault_http_cert}}
+#      ca:    {{vault_http_ca}}
+#      # The chain is optional
+#      chain: {{vault_http_chain}}
+#
+# There are two special vars that allow you to specify a list of
+# nginx directives. There is one for http and another for https.
+# A useful scenario for having two different vars is when you want
+# to redirect everything to HTTPS:
+#
+#    http_directives: |
+#        return 301 https://$host$request_uri;
+#     
+#    https_directives: []
+#
+nginx_vhosts: []
+
+#
+nginx_disable_vhosts: []
+
+# vi:ts=2:sw=2:et:ft=yaml

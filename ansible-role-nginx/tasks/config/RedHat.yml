@@ -1,0 +1,17 @@
+---
+
+- name: Stat default vhost
+  stat:
+    path: "{{nginx_config_dir}}/default.conf"
+  register: default_vh
+
+- name: Remove default_server config
+  lineinfile:
+    dest:     "{{nginx_config_dir}}/default.conf"
+    regexp:   '^([\t ]*listen.*)default_server;'
+    backrefs: yes
+    line:     '\1;'
+  when: default_vh.stat.exists
+  notify: nginx restart
+
+# vi:ts=2:sw=2:et:ft=yaml

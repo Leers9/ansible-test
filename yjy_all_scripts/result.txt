@@ -1,0 +1,2286 @@
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/get_batch
+Document Length:        166 bytes
+
+Concurrency Level:      1000
+Time taken for tests:   93.985 seconds
+Complete requests:      5000
+Failed requests:        4482
+   (Connect: 0, Receive: 0, Length: 4482, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      5000
+Keep-Alive requests:    1111
+Total transferred:      13403677 bytes
+HTML transferred:       11857356 bytes
+Requests per second:    53.20 [#/sec] (mean)
+Time per request:       18797.040 [ms] (mean)
+Time per request:       18.797 [ms] (mean, across all concurrent requests)
+Transfer rate:          139.27 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   19 119.0      1    1003
+Processing:   545 11844 19564.3   1890   61067
+Waiting:      545 11844 19564.3   1890   61067
+Total:        546 11863 19588.4   1901   61094
+
+Percentage of the requests served within a certain time (ms)
+  50%   1901
+  66%   4328
+  75%  10812
+  80%  18151
+  90%  60035
+  95%  60767
+  98%  61048
+  99%  61059
+ 100%  61094 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+apr_socket_recv: Connection reset by peer (104)
+Total of 909 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/get_batch
+Document Length:        3000 bytes
+
+Concurrency Level:      100
+Time taken for tests:   26.807 seconds
+Complete requests:      5000
+Failed requests:        0
+Write errors:           0
+Non-2xx responses:      5002
+Keep-Alive requests:    0
+Total transferred:      16774802 bytes
+HTML transferred:       15004094 bytes
+Requests per second:    186.52 [#/sec] (mean)
+Time per request:       536.138 [ms] (mean)
+Time per request:       5.361 [ms] (mean, across all concurrent requests)
+Transfer rate:          611.10 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1   24 152.9      1    2294
+Processing:    10  398 1108.1    108   26233
+Waiting:       10  264 1023.5     26   26232
+Total:         10  422 1118.3    122   26233
+
+Percentage of the requests served within a certain time (ms)
+  50%    122
+  66%    229
+  75%    427
+  80%    633
+  90%   1027
+  95%   1607
+  98%   3088
+  99%   3634
+ 100%  26233 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+Total of 101 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/post_batch
+Document Length:        3290 bytes
+
+Concurrency Level:      100
+Time taken for tests:   28.815 seconds
+Complete requests:      5000
+Failed requests:        983
+   (Connect: 0, Receive: 0, Length: 983, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      5003
+Keep-Alive requests:    0
+Total transferred:      18222235 bytes
+HTML transferred:       16451173 bytes
+Requests per second:    173.52 [#/sec] (mean)
+Time per request:       576.303 [ms] (mean)
+Time per request:       5.763 [ms] (mean, across all concurrent requests)
+Transfer rate:          617.56 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   23 146.6      1    2186
+Processing:     7  407 1267.1     99   25999
+Waiting:        7  271 1197.6     17   25998
+Total:          8  429 1272.5    126   26001
+
+Percentage of the requests served within a certain time (ms)
+  50%    126
+  66%    223
+  75%    418
+  80%    624
+  90%   1014
+  95%   1572
+  98%   3085
+  99%   6351
+ 100%  26001 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/get_batch
+Document Length:        3000 bytes
+
+Concurrency Level:      10
+Time taken for tests:   22.881 seconds
+Complete requests:      5000
+Failed requests:        0
+Write errors:           0
+Non-2xx responses:      5000
+Keep-Alive requests:    0
+Total transferred:      16770000 bytes
+HTML transferred:       15000000 bytes
+Requests per second:    218.53 [#/sec] (mean)
+Time per request:       45.761 [ms] (mean)
+Time per request:       4.576 [ms] (mean, across all concurrent requests)
+Transfer rate:          715.76 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    8  83.3      1    1002
+Processing:    10   37  77.5     20    3730
+Waiting:       10   29  65.2     20    3730
+Total:         11   46 114.5     21    3732
+
+Percentage of the requests served within a certain time (ms)
+  50%     21
+  66%     24
+  75%     26
+  80%     28
+  90%     44
+  95%    223
+  98%    234
+  99%    419
+ 100%   3732 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/post_batch
+Document Length:        108 bytes
+
+Concurrency Level:      10
+Time taken for tests:   282.656 seconds
+Complete requests:      5000
+Failed requests:        0
+Write errors:           0
+Keep-Alive requests:    0
+Total transferred:      2275000 bytes
+HTML transferred:       540000 bytes
+Requests per second:    17.69 [#/sec] (mean)
+Time per request:       565.312 [ms] (mean)
+Time per request:       56.531 [ms] (mean, across all concurrent requests)
+Transfer rate:          7.86 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    2  20.0      1    1001
+Processing:   155  563 175.5    548    1501
+Waiting:      155  563 175.5    548    1501
+Total:        156  565 176.3    549    1501
+
+Percentage of the requests served within a certain time (ms)
+  50%    549
+  66%    621
+  75%    665
+  80%    698
+  90%    790
+  95%    875
+  98%    994
+  99%   1073
+ 100%   1501 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/get_batch
+Document Length:        3292 bytes
+
+Concurrency Level:      10
+Time taken for tests:   8206.551 seconds
+Complete requests:      5000
+Failed requests:        481
+   (Connect: 0, Receive: 0, Length: 481, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      5000
+Keep-Alive requests:    0
+Total transferred:      18228557 bytes
+HTML transferred:       16458557 bytes
+Requests per second:    0.61 [#/sec] (mean)
+Time per request:       16413.102 [ms] (mean)
+Time per request:       1641.310 [ms] (mean, across all concurrent requests)
+Transfer rate:          2.17 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2  28.3      1    1001
+Processing:     6 16393 14953.9  30034   30266
+Waiting:        6 16393 14953.9  30034   30266
+Total:          7 16395 14953.8  30036   31052
+
+Percentage of the requests served within a certain time (ms)
+  50%  30036
+  66%  30044
+  75%  30047
+  80%  30048
+  90%  30051
+  95%  30053
+  98%  30056
+  99%  30059
+ 100%  31052 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/post_batch
+Document Length:        3290 bytes
+
+Concurrency Level:      10
+Time taken for tests:   21.697 seconds
+Complete requests:      5000
+Failed requests:        990
+   (Connect: 0, Receive: 0, Length: 990, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      5000
+Keep-Alive requests:    0
+Total transferred:      18217872 bytes
+HTML transferred:       16447872 bytes
+Requests per second:    230.45 [#/sec] (mean)
+Time per request:       43.394 [ms] (mean)
+Time per request:       4.339 [ms] (mean, across all concurrent requests)
+Transfer rate:          819.97 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    5  65.5      1    2355
+Processing:     7   38  70.9     15    1441
+Waiting:        7   27  48.4     15     642
+Total:          7   43  99.6     16    2575
+
+Percentage of the requests served within a certain time (ms)
+  50%     16
+  66%     18
+  75%     20
+  80%     22
+  90%    214
+  95%    221
+  98%    226
+  99%    233
+ 100%   2575 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/get_batch
+Document Length:        3000 bytes
+
+Concurrency Level:      2000
+Time taken for tests:   19.680 seconds
+Complete requests:      5000
+Failed requests:        857
+   (Connect: 0, Receive: 0, Length: 857, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      5000
+Keep-Alive requests:    857
+Total transferred:      14166434 bytes
+HTML transferred:       12571262 bytes
+Requests per second:    254.06 [#/sec] (mean)
+Time per request:       7872.128 [ms] (mean)
+Time per request:       3.936 [ms] (mean, across all concurrent requests)
+Transfer rate:          702.96 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0  187 694.2      1    7001
+Processing:    49 4580 6245.3    787   19539
+Waiting:       49 4580 6245.3    787   19539
+Total:         91 4767 6452.4    796   19575
+
+Percentage of the requests served within a certain time (ms)
+  50%    796
+  66%   1979
+  75%   8554
+  80%  13550
+  90%  15987
+  95%  19208
+  98%  19249
+  99%  19407
+ 100%  19575 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+apr_socket_recv: Connection timed out (110)
+Total of 708 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/post_batch
+Document Length:        3290 bytes
+
+Concurrency Level:      2000
+Time taken for tests:   27.251 seconds
+Complete requests:      5000
+Failed requests:        1410
+   (Connect: 0, Receive: 0, Length: 1410, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      5009
+Keep-Alive requests:    571
+Total transferred:      16330946 bytes
+HTML transferred:       14674244 bytes
+Requests per second:    183.48 [#/sec] (mean)
+Time per request:       10900.234 [ms] (mean)
+Time per request:       5.450 [ms] (mean, across all concurrent requests)
+Transfer rate:          585.24 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0  870 2313.8      1   18390
+Processing:   283 4855 5887.1   1932   23610
+Waiting:      283 4621 5816.2   1648   23609
+Total:        284 5725 6840.5   2021   24612
+
+Percentage of the requests served within a certain time (ms)
+  50%   2021
+  66%   4444
+  75%   8534
+  80%  13504
+  90%  17545
+  95%  20693
+  98%  22291
+  99%  22757
+ 100%  24612 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/post_batch
+Document Length:        166 bytes
+
+Concurrency Level:      500
+Time taken for tests:   489.622 seconds
+Complete requests:      5000
+Failed requests:        4170
+   (Connect: 0, Receive: 0, Length: 4170, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      3615
+Keep-Alive requests:    3615
+Total transferred:      1814290 bytes
+HTML transferred:       777520 bytes
+Requests per second:    10.21 [#/sec] (mean)
+Time per request:       48962.180 [ms] (mean)
+Time per request:       97.924 [ms] (mean, across all concurrent requests)
+Transfer rate:          3.62 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0  224 927.5      0    7002
+Processing:  6463 43042 21285.1  60002   70838
+Waiting:     6463 43042 21285.1  60002   70838
+Total:       6464 43266 21434.1  60002   70838
+
+Percentage of the requests served within a certain time (ms)
+  50%  60002
+  66%  60006
+  75%  60046
+  80%  60412
+  90%  61855
+  95%  63365
+  98%  64669
+  99%  67008
+ 100%  70838 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/get_batch
+Document Length:        3000 bytes
+
+Concurrency Level:      800
+Time taken for tests:   26.802 seconds
+Complete requests:      5000
+Failed requests:        343
+   (Connect: 0, Receive: 0, Length: 343, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      5000
+Keep-Alive requests:    343
+Total transferred:      15727966 bytes
+HTML transferred:       14027938 bytes
+Requests per second:    186.56 [#/sec] (mean)
+Time per request:       4288.252 [ms] (mean)
+Time per request:       5.360 [ms] (mean, across all concurrent requests)
+Transfer rate:          573.08 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   46 217.8      1    3002
+Processing:    52 2665 4210.7    825   22536
+Waiting:       52 2664 4210.8    825   22536
+Total:         75 2711 4294.2    828   23539
+
+Percentage of the requests served within a certain time (ms)
+  50%    828
+  66%   1472
+  75%   1832
+  80%   3513
+  90%   8397
+  95%  15161
+  98%  16424
+  99%  18372
+ 100%  23539 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/post_batch
+Document Length:        108 bytes
+
+Concurrency Level:      800
+Time taken for tests:   442.013 seconds
+Complete requests:      5000
+Failed requests:        4492
+   (Connect: 0, Receive: 0, Length: 4492, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      4492
+Keep-Alive requests:    4491
+Total transferred:      1708472 bytes
+HTML transferred:       838914 bytes
+Requests per second:    11.31 [#/sec] (mean)
+Time per request:       70722.023 [ms] (mean)
+Time per request:       88.403 [ms] (mean, across all concurrent requests)
+Transfer rate:          3.77 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    3  15.9      0    1001
+Processing:  3317 65822 39168.0  64751  186632
+Waiting:     3317 65822 39168.0  64751  186632
+Total:       3345 65825 39171.8  64751  186649
+
+Percentage of the requests served within a certain time (ms)
+  50%  64751
+  66%  71830
+  75%  76431
+  80%  77117
+  90%  122530
+  95%  159996
+  98%  170950
+  99%  176068
+ 100%  186649 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 500 requests
+Completed 1000 requests
+Completed 1500 requests
+Completed 2000 requests
+Completed 2500 requests
+Completed 3000 requests
+Completed 3500 requests
+Completed 4000 requests
+Completed 4500 requests
+Completed 5000 requests
+Finished 5000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/post_batch
+Document Length:        3290 bytes
+
+Concurrency Level:      800
+Time taken for tests:   25.079 seconds
+Complete requests:      5000
+Failed requests:        1128
+   (Connect: 0, Receive: 0, Length: 1128, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      5014
+Keep-Alive requests:    302
+Total transferred:      17236316 bytes
+HTML transferred:       15522968 bytes
+Requests per second:    199.37 [#/sec] (mean)
+Time per request:       4012.711 [ms] (mean)
+Time per request:       5.016 [ms] (mean, across all concurrent requests)
+Transfer rate:          671.16 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   19 123.8      1    1003
+Processing:   120 2530 4458.7    705   23001
+Waiting:      120 2506 4457.2    692   23001
+Total:        120 2548 4471.3    708   23013
+
+Percentage of the requests served within a certain time (ms)
+  50%    708
+  66%   1154
+  75%   1697
+  80%   2068
+  90%   7934
+  95%  13955
+  98%  19016
+  99%  22804
+ 100%  23013 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection reset by peer (104)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 600 requests
+Completed 1200 requests
+Completed 1800 requests
+Completed 2400 requests
+Completed 3000 requests
+Completed 3600 requests
+Completed 4200 requests
+Completed 4800 requests
+Completed 5400 requests
+apr_socket_recv: Connection timed out (110)
+Total of 5664 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection reset by peer (104)
+Total of 69 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 600 requests
+Completed 1200 requests
+Completed 1800 requests
+Completed 2400 requests
+Completed 3000 requests
+Completed 3600 requests
+Completed 4200 requests
+Completed 4800 requests
+Completed 5400 requests
+Completed 6000 requests
+Finished 6000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/get_batch
+Document Length:        3292 bytes
+
+Concurrency Level:      1200
+Time taken for tests:   221.710 seconds
+Complete requests:      6000
+Failed requests:        4285
+   (Connect: 0, Receive: 0, Length: 4285, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      6000
+Keep-Alive requests:    4118
+Total transferred:      8200269 bytes
+HTML transferred:       6903771 bytes
+Requests per second:    27.06 [#/sec] (mean)
+Time per request:       44341.985 [ms] (mean)
+Time per request:       36.952 [ms] (mean, across all concurrent requests)
+Transfer rate:          36.12 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    7  22.2      0    1001
+Processing:  1807 38449 21328.3  38972   63035
+Waiting:     1807 38449 21328.3  38972   63035
+Total:       1809 38456 21326.0  38972   63072
+
+Percentage of the requests served within a certain time (ms)
+  50%  38972
+  66%  60002
+  75%  60003
+  80%  60005
+  90%  60013
+  95%  60054
+  98%  61056
+  99%  61062
+ 100%  63072 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 600 requests
+Completed 1200 requests
+Completed 1800 requests
+Completed 2400 requests
+Completed 3000 requests
+Completed 3600 requests
+Completed 4200 requests
+Completed 4800 requests
+Completed 5400 requests
+Completed 6000 requests
+Finished 6000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/post_batch
+Document Length:        3290 bytes
+
+Concurrency Level:      1200
+Time taken for tests:   32.576 seconds
+Complete requests:      6000
+Failed requests:        1612
+   (Connect: 0, Receive: 0, Length: 1612, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      6186
+Keep-Alive requests:    603
+Total transferred:      20130201 bytes
+HTML transferred:       18063369 bytes
+Requests per second:    184.18 [#/sec] (mean)
+Time per request:       6515.203 [ms] (mean)
+Time per request:       5.429 [ms] (mean, across all concurrent requests)
+Transfer rate:          603.46 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   27 158.3      1    3002
+Processing:     8 4048 5357.5   1644   26925
+Waiting:        8 3560 5290.9   1189   26925
+Total:          9 4075 5360.4   1662   26950
+
+Percentage of the requests served within a certain time (ms)
+  50%   1662
+  66%   3142
+  75%   4917
+  80%   6524
+  90%  13949
+  95%  16470
+  98%  20020
+  99%  21531
+ 100%  26950 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection reset by peer (104)
+Total of 1 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 600 requests
+Completed 1200 requests
+Completed 1800 requests
+Completed 2400 requests
+Completed 3000 requests
+Completed 3600 requests
+Completed 4200 requests
+Completed 4800 requests
+Completed 5400 requests
+Completed 6000 requests
+Finished 6000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/get_batch
+Document Length:        3000 bytes
+
+Concurrency Level:      500
+Time taken for tests:   75.568 seconds
+Complete requests:      6000
+Failed requests:        61
+   (Connect: 0, Receive: 0, Length: 61, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      6000
+Keep-Alive requests:    36
+Total transferred:      20021417 bytes
+HTML transferred:       17904591 bytes
+Requests per second:    79.40 [#/sec] (mean)
+Time per request:       6297.309 [ms] (mean)
+Time per request:       12.595 [ms] (mean, across all concurrent requests)
+Transfer rate:          258.74 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0  594 3446.5      1   31010
+Processing:    11 3620 6592.0   1035   52541
+Waiting:       10 2991 6420.6    529   52541
+Total:         11 4215 8002.0   1145   52542
+
+Percentage of the requests served within a certain time (ms)
+  50%   1145
+  66%   1994
+  75%   3316
+  80%   4931
+  90%  12954
+  95%  25998
+  98%  33035
+  99%  37835
+ 100%  52542 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection reset by peer (104)
+Total of 91 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 600 requests
+Completed 1200 requests
+Completed 1800 requests
+Completed 2400 requests
+Completed 3000 requests
+Completed 3600 requests
+Completed 4200 requests
+Completed 4800 requests
+Completed 5400 requests
+Completed 6000 requests
+Finished 6000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/post_batch
+Document Length:        3290 bytes
+
+Concurrency Level:      500
+Time taken for tests:   45.248 seconds
+Complete requests:      6000
+Failed requests:        1464
+   (Connect: 0, Receive: 0, Length: 1464, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      6159
+Keep-Alive requests:    462
+Total transferred:      20564700 bytes
+HTML transferred:       18478662 bytes
+Requests per second:    132.60 [#/sec] (mean)
+Time per request:       3770.702 [ms] (mean)
+Time per request:       7.541 [ms] (mean, across all concurrent requests)
+Transfer rate:          443.83 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   12 101.1      1    1002
+Processing:    11 2670 4785.2    766   28577
+Waiting:       10 2601 4787.1    727   28577
+Total:         12 2682 4790.8    772   28577
+
+Percentage of the requests served within a certain time (ms)
+  50%    772
+  66%   1277
+  75%   1747
+  80%   2385
+  90%   8380
+  95%  15135
+  98%  17234
+  99%  23107
+ 100%  28577 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 600 requests
+apr_socket_recv: Connection timed out (110)
+Total of 1184 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+apr_socket_recv: Connection timed out (110)
+Total of 5781 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+Total of 19 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+Completed 7200 requests
+Completed 8000 requests
+Finished 8000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/get_batch
+Document Length:        3292 bytes
+
+Concurrency Level:      100
+Time taken for tests:   1353.110 seconds
+Complete requests:      8000
+Failed requests:        822
+   (Connect: 0, Receive: 0, Length: 822, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      8000
+Keep-Alive requests:    0
+Total transferred:      29165534 bytes
+HTML transferred:       26333534 bytes
+Requests per second:    5.91 [#/sec] (mean)
+Time per request:       16913.871 [ms] (mean)
+Time per request:       169.139 [ms] (mean, across all concurrent requests)
+Transfer rate:          21.05 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    4  53.7      1    1002
+Processing:     6 16665 14926.8  30040   30470
+Waiting:        6 16665 14926.8  30040   30470
+Total:          7 16669 14927.4  30041   31061
+
+Percentage of the requests served within a certain time (ms)
+  50%  30041
+  66%  30047
+  75%  30049
+  80%  30050
+  90%  30054
+  95%  30060
+  98%  30077
+  99%  30129
+ 100%  31061 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+Completed 7200 requests
+Completed 8000 requests
+Finished 8000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/post_batch
+Document Length:        3290 bytes
+
+Concurrency Level:      100
+Time taken for tests:   32.600 seconds
+Complete requests:      8000
+Failed requests:        1519
+   (Connect: 0, Receive: 0, Length: 1519, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      8000
+Keep-Alive requests:    0
+Total transferred:      29148749 bytes
+HTML transferred:       26316749 bytes
+Requests per second:    245.40 [#/sec] (mean)
+Time per request:       407.505 [ms] (mean)
+Time per request:       4.075 [ms] (mean, across all concurrent requests)
+Transfer rate:          873.17 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   19 135.7      1    3000
+Processing:     7  376 869.4     42   12934
+Waiting:        7  267 743.3     18   12932
+Total:          7  396 877.2     60   12935
+
+Percentage of the requests served within a certain time (ms)
+  50%     60
+  66%    222
+  75%    260
+  80%    627
+  90%   1237
+  95%   1647
+  98%   3095
+  99%   4509
+ 100%  12935 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+Completed 7200 requests
+Completed 8000 requests
+Finished 8000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/get_batch
+Document Length:        3000 bytes
+
+Concurrency Level:      10
+Time taken for tests:   99.833 seconds
+Complete requests:      8000
+Failed requests:        1
+   (Connect: 0, Receive: 0, Length: 1, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      8000
+Keep-Alive requests:    1
+Total transferred:      26828977 bytes
+HTML transferred:       23997176 bytes
+Requests per second:    80.13 [#/sec] (mean)
+Time per request:       124.791 [ms] (mean)
+Time per request:       12.479 [ms] (mean, across all concurrent requests)
+Transfer rate:          262.44 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   39 429.0      1   31001
+Processing:    10   86 566.9     22   30001
+Waiting:       10   83 566.7     22   30001
+Total:         10  125 726.3     24   31016
+
+Percentage of the requests served within a certain time (ms)
+  50%     24
+  66%     27
+  75%     29
+  80%     31
+  90%     47
+  95%   1017
+  98%   1029
+  99%   1272
+ 100%  31016 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+Completed 7200 requests
+Completed 8000 requests
+Finished 8000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/post_batch
+Document Length:        108 bytes
+
+Concurrency Level:      10
+Time taken for tests:   498.382 seconds
+Complete requests:      8000
+Failed requests:        0
+Write errors:           0
+Keep-Alive requests:    0
+Total transferred:      3640000 bytes
+HTML transferred:       864000 bytes
+Requests per second:    16.05 [#/sec] (mean)
+Time per request:       622.977 [ms] (mean)
+Time per request:       62.298 [ms] (mean, across all concurrent requests)
+Transfer rate:          7.13 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2  25.0      1    1002
+Processing:   166  621 219.6    593    4153
+Waiting:      166  621 219.6    593    4153
+Total:        168  623 221.2    595    4154
+
+Percentage of the requests served within a certain time (ms)
+  50%    595
+  66%    678
+  75%    743
+  80%    785
+  90%    895
+  95%   1003
+  98%   1142
+  99%   1256
+ 100%   4154 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+Completed 7200 requests
+Completed 8000 requests
+Finished 8000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/post_batch
+Document Length:        3290 bytes
+
+Concurrency Level:      10
+Time taken for tests:   75.325 seconds
+Complete requests:      8000
+Failed requests:        1591
+   (Connect: 0, Receive: 0, Length: 1591, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      8000
+Keep-Alive requests:    0
+Total transferred:      29148621 bytes
+HTML transferred:       26316621 bytes
+Requests per second:    106.21 [#/sec] (mean)
+Time per request:       94.156 [ms] (mean)
+Time per request:       9.416 [ms] (mean, across all concurrent requests)
+Transfer rate:          377.90 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    7  76.4      1    1003
+Processing:     7   64 404.3     20   20058
+Waiting:        7   60 403.6     20   20058
+Total:          8   72 411.4     21   20060
+
+Percentage of the requests served within a certain time (ms)
+  50%     21
+  66%     27
+  75%     34
+  80%     41
+  90%    101
+  95%    221
+  98%    298
+  99%   1015
+ 100%  20060 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+apr_socket_recv: Connection timed out (110)
+Total of 6489 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+Completed 7200 requests
+Completed 8000 requests
+Finished 8000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpAnswer/post_batch
+Document Length:        108 bytes
+
+Concurrency Level:      500
+Time taken for tests:   694.063 seconds
+Complete requests:      8000
+Failed requests:        5172
+   (Connect: 0, Receive: 0, Length: 5172, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      5172
+Keep-Alive requests:    5172
+Total transferred:      2981677 bytes
+HTML transferred:       1204366 bytes
+Requests per second:    11.53 [#/sec] (mean)
+Time per request:       43378.944 [ms] (mean)
+Time per request:       86.758 [ms] (mean, across all concurrent requests)
+Transfer rate:          4.20 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0  246 1187.7      0    7004
+Processing:   635 41043 21871.0  60001   76232
+Waiting:      635 41043 21871.0  60001   76232
+Total:        645 41289 22133.8  60001   83235
+
+Percentage of the requests served within a certain time (ms)
+  50%  60001
+  66%  60014
+  75%  60226
+  80%  60534
+  90%  62044
+  95%  64860
+  98%  67471
+  99%  67930
+ 100%  83235 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_poll: The timeout specified has expired (70007)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+Completed 7200 requests
+Completed 8000 requests
+Finished 8000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/post_batch
+Document Length:        166 bytes
+
+Concurrency Level:      500
+Time taken for tests:   200.954 seconds
+Complete requests:      8000
+Failed requests:        7602
+   (Connect: 0, Receive: 0, Length: 7602, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      8000
+Keep-Alive requests:    1368
+Total transferred:      24611241 bytes
+HTML transferred:       22053463 bytes
+Requests per second:    39.81 [#/sec] (mean)
+Time per request:       12559.630 [ms] (mean)
+Time per request:       25.119 [ms] (mean, across all concurrent requests)
+Transfer rate:          119.60 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0  260 1733.8      1   15005
+Processing:   321 10418 20022.7   1258   70103
+Waiting:      321 10412 20025.3   1233   70103
+Total:        322 10678 20742.4   1280   80240
+
+Percentage of the requests served within a certain time (ms)
+  50%   1280
+  66%   2714
+  75%   4633
+  80%   9195
+  90%  60010
+  95%  62178
+  98%  70116
+  99%  75982
+ 100%  80240 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+apr_socket_recv: Connection refused (111)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+apr_socket_recv: Connection timed out (110)
+Total of 5143 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+apr_socket_recv: Connection reset by peer (104)
+Total of 6959 requests completed
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+Completed 7200 requests
+Completed 8000 requests
+Finished 8000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/get_batch
+Document Length:        3292 bytes
+
+Concurrency Level:      800
+Time taken for tests:   434.991 seconds
+Complete requests:      8000
+Failed requests:        4690
+   (Connect: 0, Receive: 0, Length: 4690, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      8000
+Keep-Alive requests:    4355
+Total transferred:      14711480 bytes
+HTML transferred:       12752355 bytes
+Requests per second:    18.39 [#/sec] (mean)
+Time per request:       43499.060 [ms] (mean)
+Time per request:       54.374 [ms] (mean, across all concurrent requests)
+Transfer rate:          33.03 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   42 238.8      1    3002
+Processing:  2855 38295 20709.8  38964   61039
+Waiting:     2855 38295 20709.8  38964   61039
+Total:       2857 38337 20700.4  39024   61055
+
+Percentage of the requests served within a certain time (ms)
+  50%  39024
+  66%  60001
+  75%  60002
+  80%  60003
+  90%  60006
+  95%  60011
+  98%  60264
+  99%  61023
+ 100%  61055 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking tiku.letiku.net (be patient)
+Completed 800 requests
+Completed 1600 requests
+Completed 2400 requests
+Completed 3200 requests
+Completed 4000 requests
+Completed 4800 requests
+Completed 5600 requests
+Completed 6400 requests
+Completed 7200 requests
+Completed 8000 requests
+Finished 8000 requests
+
+
+Server Software:        nginx
+Server Hostname:        tiku.letiku.net
+Server Port:            8026
+
+Document Path:          /index.php/Operation/TmpNote/post_batch
+Document Length:        3287 bytes
+
+Concurrency Level:      800
+Time taken for tests:   48.579 seconds
+Complete requests:      8000
+Failed requests:        7253
+   (Connect: 0, Receive: 0, Length: 7253, Exceptions: 0)
+Write errors:           0
+Non-2xx responses:      8029
+Keep-Alive requests:    96
+Total transferred:      28871149 bytes
+HTML transferred:       26048467 bytes
+Requests per second:    164.68 [#/sec] (mean)
+Time per request:       4857.879 [ms] (mean)
+Time per request:       6.072 [ms] (mean, across all concurrent requests)
+Transfer rate:          580.39 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   40 201.5      1    2532
+Processing:     7 3316 6330.4    635   42119
+Waiting:        7 2403 5685.7    220   42116
+Total:          8 3356 6334.0    710   42130
+
+Percentage of the requests served within a certain time (ms)
+  50%    710
+  66%   1641
+  75%   3077
+  80%   3890
+  90%  10913
+  95%  16307
+  98%  26049
+  99%  27443
+ 100%  42130 (longest request)

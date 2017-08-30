@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/miniao_waike/20170420/
+OUTPUT_PATH=/data/hls/miniao_waike/
+THUMB_PATH=/data/hls/thumb/miniao_waike/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/miniao_waike/
+APP_URL=http://m1.letiku.net/miniao_waike/
+TMP_PATH=/data/fs_convert/miniao_waike/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/miniao_waike/
+SQL_LOG= ~/shell/log/sql_miniao_waike.log
+ERROR_LOG=~/shell/log/error_miniao_waike.log

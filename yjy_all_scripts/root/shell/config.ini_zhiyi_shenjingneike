@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/zhiyi_shenjingneike/20170613/
+OUTPUT_PATH=/data/hls/zhiyi_shenjingneike/
+THUMB_PATH=/data/hls/thumb/zhiyi_shenjingneike/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/zhiyi_shenjingneike/
+APP_URL=http://m1.letiku.net/zhiyi_shenjingneike/
+TMP_PATH=/data/fs_convert/zhiyi_shenjingneike/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/zhiyi_shenjingneike/
+SQL_LOG= ~/shell/log/sql_zhiyi_shenjingneike.log
+ERROR_LOG=~/shell/log/error_zhiyi_shenjingneike.log

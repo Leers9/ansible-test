@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/tcms_chuanranbing/20170619/
+OUTPUT_PATH=/data/hls/tcms_chuanranbing/
+THUMB_PATH=/data/hls/thumb/tcms_chuanranbing/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/tcms_chuanranbing/
+APP_URL=http://m1.letiku.net/tcms_chuanranbing/
+TMP_PATH=/data/fs_convert/tcms_chuanranbing/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/tcms_chuanranbing/
+SQL_LOG= ~/shell/log/sql_tcms_chuanranbing.log
+ERROR_LOG=~/shell/log/error_tcms_chuanranbing.log

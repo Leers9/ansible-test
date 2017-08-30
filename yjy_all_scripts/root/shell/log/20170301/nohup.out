@@ -1,0 +1,9 @@
+开始处理第1个文件[/data/original/xiyizonghe/fushishicao/20170301/20170301.mp4]
+开始转码生成临时文件/data/fs_convert/xiyizonghe/fushishicao//20170301_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/xiyizonghe/fushishicao//20170301/d6e2c91f1d2f3e11.jpg
+开始生成ts/data/hls/xiyizonghe/fushishicao//20170301/2afb66e1
+生成ts成功
+开始生成切片d6e2c91f1d2f3e11.m3u8
+生成切片成功
+输出日志到/root/shell/log/sql_xiyizonghe_fushishicao.log

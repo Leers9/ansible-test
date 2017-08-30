@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/zhiyi_xinli/20170527/
+OUTPUT_PATH=/data/hls/zhiyi_xinli/
+THUMB_PATH=/data/hls/thumb/zhiyi_xinli/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/zhiyi_xinli/
+APP_URL=http://m1.letiku.net/zhiyi_xinli/
+TMP_PATH=/data/fs_convert/zhiyi_xinli/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/zhiyi_xinli/
+SQL_LOG= ~/shell/log/sql_zhiyi_xinli.log
+ERROR_LOG=~/shell/log/error_zhiyi_xinli.log

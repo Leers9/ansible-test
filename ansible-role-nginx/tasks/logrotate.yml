@@ -1,0 +1,11 @@
+---
+
+- name: Enable Logrotate
+  template:
+    src:   etc/logrotate.d/vhost.j2
+    dest:  "/etc/logrotate.d/nginx-vhosts"
+    owner: "root"
+    group: "root"
+    mode:  "644"
+
+# vi:ts=2:sw=2:et:ft=yaml

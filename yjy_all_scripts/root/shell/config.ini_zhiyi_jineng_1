@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/zhiyi_jineng/20170602
+OUTPUT_PATH=/data/hls/zhiyi_jineng/
+THUMB_PATH=/data/hls/thumb/zhiyi_jineng/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/zhiyi_jineng/
+APP_URL=http://m1.letiku.net/zhiyi_jineng/
+TMP_PATH=/data/fs_convert/zhiyi_jineng/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/zhiyi_jineng/
+SQL_LOG= ~/shell/log/sql_zhiyi_jineng.log
+ERROR_LOG=~/shell/log/error_zhiyi_jineng.log

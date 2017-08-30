@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/tcms_medicine/20170612
+OUTPUT_PATH=/data/hls/tcms_medicine/
+THUMB_PATH=/data/hls/thumb/tcms_medicine/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/tcms_medicine/
+APP_URL=http://m1.letiku.net/tcms_medicine/
+TMP_PATH=/data/fs_convert/tcms_medicine/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/tcms_medicine/
+SQL_LOG= ~/shell/log/sql_tcms_medicine.log
+ERROR_LOG=~/shell/log/error_tcms_medicine.log

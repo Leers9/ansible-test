@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/tcms/china_materia/20170301
+OUTPUT_PATH=/data/hls/tcms/china_materia
+THUMB_PATH=/data/hls/thumb/tcms/china_materia
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/tcms/china_materia
+APP_URL=http://m1.letiku.net/tcms/china_materia
+TMP_PATH=/data/fs_convert/tcms/china_materia
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_tcms_china_materia.log
+ERROR_LOG=~/shell/log/error_tcms_china_materia.log

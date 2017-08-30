@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/tcms/diagnostics/20170221
+OUTPUT_PATH=/data/hls/tcms/diagnostics
+THUMB_PATH=/data/hls/thumb/tcms/diagnostics
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/tcms/diagnostics
+APP_URL=http://m1.letiku.net/tcms/diagnostics
+TMP_PATH=/data/fs_convert/tcms/diagnostics
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_tcms_diagnostics.log
+ERROR_LOG=~/shell/log/error_tcms_diagnostics.log

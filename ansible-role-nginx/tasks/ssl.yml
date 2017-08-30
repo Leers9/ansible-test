@@ -1,0 +1,30 @@
+---
+#
+# nginx: ssl configuration
+#
+
+- name: SSL Key file
+  copy:
+    dest:    "{{nginx_ssl_dir}}/{{item.server_name}}.key"
+    content: "{{item.certs.key}}"
+    owner:   "root"
+    group:   "{{nginx_group}}"
+    mode:    "640"
+  when: (item.ssl_enabled is defined) and (item.ssl_enabled)
+  with_items: "{{nginx_vhosts}}"
+  notify: nginx restart
+  no_log: true
+
+- name: SSL PEM
+  template:
+    src:   etc/nginx/ssl/certs.pem.j2
+    dest:  "{{nginx_ssl_dir}}/{{item.server_name}}.pem"
+    owner: "root"
+    group: "{{nginx_group}}"
+    mode:  "0640"
+  when: (item.ssl_enabled is defined) and (item.ssl_enabled)
+  with_items: "{{nginx_vhosts}}"
+  notify: nginx restart
+  no_log: true
+
+# vi:ts=2:sw=2:et:ft=yaml

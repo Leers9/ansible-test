@@ -1,0 +1,83 @@
+---
+- hosts: localhost
+  connection: local
+  tasks:
+    - template: src={{ work_dir }}/openssl.cnf.j2
+                dest={{ work_dir }}/openssl.cnf
+      tags:
+        - certificate
+        - request
+        - ca
+    - command: openssl ecparam -out {{ ca.key }} -name prime256v1 -genkey
+               creates={{ ca.key }}
+      tags:
+        - certificate
+        - ca
+    - command: >
+        openssl req -config {{ openssl_cnf }}
+                    -new \
+                    -x509 \
+                    -key {{ ca.key }} \
+                    -{{ ca.digest }} \
+                    -days {{ ca.days }} \
+                    -subj "{{ ca.subject }}" \
+                    -extensions v3_ca \
+                    -out {{ ca.certificate }}
+        creates={{ ca.certificate }}
+      tags:
+        - certificate
+        - ca
+    - command: openssl ecparam -out {{ req.key }} -name prime256v1 -genkey
+      tags:
+        - certificate
+        - request
+    - command: >
+        openssl req -config {{ openssl_cnf }} \
+                    -new \
+                    -key {{ req.key }} \
+                    -{{ req.digest }} \
+                    -outform PEM \
+                    -keyform PEM \
+                    -out {{ req.csr }} \
+                    -subj "{{ subject }}"
+      tags:
+        - certificate
+        - request
+    - command: mkdir -p {{ openssl_dir }}/newcerts
+      tags: certificate
+    - command: touch {{ openssl_dir }}/index.txt
+               creates={{ openssl_dir }}/index.txt
+      tags: certificate
+    - shell: echo 00 > {{ openssl_dir }}/serial
+             creates={{ openssl_dir }}/serial
+      tags: certificate
+    - command: >
+        openssl ca -config {{ openssl_cnf }} \
+                   -in {{ req.csr }} \
+                   -keyfile {{ ca.key }} \
+                   -cert {{ ca.certificate }} \
+                   -extensions usr_cert \
+                   -batch \
+                   -out {{ usr.certificate }}
+      tags: certificate
+  vars:
+    work_dir: .
+    openssl_dir: "{{ work_dir }}/demoCA"
+    openssl_cnf: "{{ work_dir }}/openssl.cnf"
+    ca:
+      default_md: sha256
+      digest: sha256
+      days: 3650
+      subject: "/C=JP/ST=Tokyo/O=organization/CN=ECC Test CA"
+      key: ca-private.key
+      certificate: ca.pem
+    req:
+      digest: sha256
+      key: private.key
+      csr: req.pem
+    usr:
+      digest: sha256
+      extendedKeyUsage:
+        - serverAuth
+        - clientAuth
+      certificate: server.pem

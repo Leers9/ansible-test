@@ -1,0 +1,32 @@
+---
+
+- name: Include OS Family vars
+  include_vars: "{{ansible_os_family}}.yml"
+  tags: always
+
+- include: install.yml
+  tags: nginx_install
+
+- include: dirs.yml
+  tags: nginx_dirs
+
+- include: ssl.yml
+  tags: nginx_ssl
+
+- include: config.yml
+  tags: nginx_config
+
+- include: vhosts.yml
+  tags: nginx_vhosts
+
+- include: logrotate.yml
+  tags: nginx_logrotate
+
+- name: Start and Enable nginx
+  service:
+    name:    nginx
+    state:   started
+    enabled: yes
+  when: nginx_enabled
+
+# vi:ts=2:sw=2:et:ft=yaml

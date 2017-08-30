@@ -1,0 +1,2 @@
+grant all privilages on *.* to "atompi"@"127.0.0.1" identified by "atompi802";
+grant all privilages on *.* to "atompi"@"localhost" identified by "atompi802";

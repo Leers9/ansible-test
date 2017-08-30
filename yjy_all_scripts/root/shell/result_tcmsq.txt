@@ -1,0 +1,5 @@
+102M	http://m1.letiku.net/tcms_jineng//20170414/3e117435/f73db428a1a8bf0b.m3u8
+64M	http://m1.letiku.net/tcms_jineng//20170414/5d4d258c/edb4177963818ae7.m3u8
+81M	http://m1.letiku.net/tcms_jineng//20170414/db25faf1/b4bf673fbcc37d13.m3u8
+88M	http://m1.letiku.net/tcms_jineng//20170414/7ff8efc8/1030ab1cebbb7877.m3u8
+221M	http://m1.letiku.net/tcms_jineng//20170414/baf6ba94/c039cf3a1bdb3f94.m3u8

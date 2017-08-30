@@ -1,0 +1,300 @@
+开始处理第1个文件[/data/original/zhibo/xuqi/20170601/531ֱ��.mp4]
+开始转码生成临时文件/data/fs_convert/zhibo//531ֱ��_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhibo//20170601/ee0dfd20bd79cd72.jpg
+开始生成ts/data/hls/zhibo//20170601/632740c7
+生成ts成功
+开始生成切片ee0dfd20bd79cd72.m3u8
+生成切片成功
+/data/hls/zhibo//20170601/632740c7/ee0dfd20bd79cd72.m3u8
+正在修改aes_m3u8文件
+输出日志到/root/shell/log/sql_zhibo.log
+开始处理第1个文件[/data/original/tcms_jineng/20170601/zzy.jnxy10.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_jineng//zzy.jnxy10_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/bbf4dc375a78fac0.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/380b6a71
+生成ts成功
+开始生成切片bbf4dc375a78fac0.m3u8
+生成切片成功
+/data/hls/tcms_jineng//20170601/380b6a71/bbf4dc375a78fac0.m3u8
+正在修改aes_m3u8文件
+输出日志到/root/shell/log/sql_tcms_jineng.log
+开始处理第1个文件[/data/original/tcms_jineng/20170601/zzy.jnxy03.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_jineng//zzy.jnxy03_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/5f60c7a0cc4dbf24.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/274f62e1
+生成ts成功
+开始生成切片5f60c7a0cc4dbf24.m3u8
+生成切片成功
+开始处理第2个文件[/data/original/tcms_jineng/20170601/zzy.jnxy04.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_jineng//zzy.jnxy04_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/03f5c12a5eae754a.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/732f1997
+生成ts成功
+开始生成切片03f5c12a5eae754a.m3u8
+生成切片成功
+开始处理第3个文件[/data/original/tcms_jineng/20170601/zzy.jnxy10.mp4]
+临时文件已经存在，跳过转码
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/4ea8771a94f5a49a.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/754b5a16
+生成ts成功
+开始生成切片4ea8771a94f5a49a.m3u8
+生成切片成功
+开始处理第4个文件[/data/original/tcms_jineng/20170601/zzy.jnxy06.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_jineng//zzy.jnxy06_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/107b3858e303b75f.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/0ed7ce46
+生成ts成功
+开始生成切片107b3858e303b75f.m3u8
+生成切片成功
+开始处理第5个文件[/data/original/tcms_jineng/20170601/zzy.jnxy02.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_jineng//zzy.jnxy02_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/b6f9b58f57006d24.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/13063fcf
+生成ts成功
+开始生成切片b6f9b58f57006d24.m3u8
+生成切片成功
+开始处理第6个文件[/data/original/tcms_jineng/20170601/zzy.jnxy09.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_jineng//zzy.jnxy09_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/098b2d15dbe380f3.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/1273963c
+生成ts成功
+开始生成切片098b2d15dbe380f3.m3u8
+生成切片成功
+开始处理第7个文件[/data/original/tcms_jineng/20170601/zzy.jnxy01.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_jineng//zzy.jnxy01_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/7f0440ffd034d2a7.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/81a39629
+生成ts成功
+开始生成切片7f0440ffd034d2a7.m3u8
+生成切片成功
+开始处理第8个文件[/data/original/tcms_jineng/20170601/zzy.jnxy08.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_jineng//zzy.jnxy08_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/395cf33b615eea1b.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/fd2e0bf2
+生成ts成功
+开始生成切片395cf33b615eea1b.m3u8
+生成切片成功
+开始处理第9个文件[/data/original/tcms_jineng/20170601/zzy.jnxy05.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_jineng//zzy.jnxy05_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/e1063ad7237f5468.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/1cf9b101
+生成ts成功
+开始生成切片e1063ad7237f5468.m3u8
+生成切片成功
+开始处理第10个文件[/data/original/tcms_jineng/20170601/zzy.jnxy07.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_jineng//zzy.jnxy07_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_jineng//20170601/8ee229212cd2e0cc.jpg
+开始生成ts/data/hls/tcms_jineng//20170601/775afecb
+生成ts成功
+开始生成切片8ee229212cd2e0cc.m3u8
+生成切片成功
+/data/hls/tcms_jineng//20170601/274f62e1/5f60c7a0cc4dbf24.m3u8
+正在修改aes_m3u8文件
+/data/hls/tcms_jineng//20170601/732f1997/03f5c12a5eae754a.m3u8
+正在修改aes_m3u8文件
+/data/hls/tcms_jineng//20170601/754b5a16/4ea8771a94f5a49a.m3u8
+正在修改aes_m3u8文件
+/data/hls/tcms_jineng//20170601/0ed7ce46/107b3858e303b75f.m3u8
+正在修改aes_m3u8文件
+/data/hls/tcms_jineng//20170601/13063fcf/b6f9b58f57006d24.m3u8
+正在修改aes_m3u8文件
+/data/hls/tcms_jineng//20170601/1273963c/098b2d15dbe380f3.m3u8
+正在修改aes_m3u8文件
+/data/hls/tcms_jineng//20170601/81a39629/7f0440ffd034d2a7.m3u8
+正在修改aes_m3u8文件
+/data/hls/tcms_jineng//20170601/fd2e0bf2/395cf33b615eea1b.m3u8
+正在修改aes_m3u8文件
+/data/hls/tcms_jineng//20170601/1cf9b101/e1063ad7237f5468.m3u8
+正在修改aes_m3u8文件
+/data/hls/tcms_jineng//20170601/775afecb/8ee229212cd2e0cc.m3u8
+正在修改aes_m3u8文件
+输出日志到/root/shell/log/sql_tcms_jineng.log
+恭喜,文件生成成功，即将生成目录
+恭喜,配置文件修改成功！！
+开始处理第1个文件[/data/original/zhiyi_binglixue/20170601/zyysbl_14.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_binglixue//zyysbl_14_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_binglixue//20170601/917f41c5df480840.jpg
+开始生成ts/data/hls/zhiyi_binglixue//20170601/c0ff0dc5
+生成ts成功
+开始生成切片917f41c5df480840.m3u8
+生成切片成功
+开始处理第2个文件[/data/original/zhiyi_binglixue/20170601/zyysbl_12.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_binglixue//zyysbl_12_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_binglixue//20170601/240693372f16453d.jpg
+开始生成ts/data/hls/zhiyi_binglixue//20170601/d1a0fada
+生成ts成功
+开始生成切片240693372f16453d.m3u8
+生成切片成功
+开始处理第3个文件[/data/original/zhiyi_binglixue/20170601/zyysbl_10.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_binglixue//zyysbl_10_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_binglixue//20170601/f4e682e26e3d6f04.jpg
+开始生成ts/data/hls/zhiyi_binglixue//20170601/5f5ac8c0
+生成ts成功
+开始生成切片f4e682e26e3d6f04.m3u8
+生成切片成功
+开始处理第4个文件[/data/original/zhiyi_binglixue/20170601/zyysbl_13.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_binglixue//zyysbl_13_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_binglixue//20170601/018b60e613dd41b3.jpg
+开始生成ts/data/hls/zhiyi_binglixue//20170601/184a38b8
+生成ts成功
+开始生成切片018b60e613dd41b3.m3u8
+生成切片成功
+/data/hls/zhiyi_jineng//20170601/3ff19be0/1dde4b6317cd9fb7.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_binglixue//20170601/5f5ac8c0/f4e682e26e3d6f04.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_binglixue//20170601/184a38b8/018b60e613dd41b3.m3u8
+正在修改aes_m3u8文件
+输出日志到/root/shell/log/sql_zhiyi_binglixue.log
+开始处理第1个文件[/data/original/zhiyi_shengli/20170515/xzy.sl4.03.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl4.03_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/39e56a9981fb7917.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/df797bd1
+生成ts成功
+开始生成切片39e56a9981fb7917.m3u8
+生成切片成功
+开始处理第2个文件[/data/original/zhiyi_shengli/20170515/xzy.sl3.03.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl3.03_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/8674ca32491a81cd.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/ba93dd73
+生成ts成功
+开始生成切片8674ca32491a81cd.m3u8
+生成切片成功
+开始处理第3个文件[/data/original/zhiyi_shengli/20170515/xzy.sl2.02.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl2.02_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/7c52c61b8e71ef69.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/5fa48327
+生成ts成功
+开始生成切片7c52c61b8e71ef69.m3u8
+生成切片成功
+开始处理第4个文件[/data/original/zhiyi_shengli/20170515/xzy.sl4.02.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl4.02_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/eba9c9caa78036ca.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/110cda65
+生成ts成功
+开始生成切片eba9c9caa78036ca.m3u8
+生成切片成功
+开始处理第5个文件[/data/original/zhiyi_shengli/20170515/xzy.sl1.01.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl1.01_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/cfad77c93c8d16ae.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/6a2fc3f0
+生成ts成功
+开始生成切片cfad77c93c8d16ae.m3u8
+生成切片成功
+开始处理第6个文件[/data/original/zhiyi_shengli/20170515/xzy.sl2.03.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl2.03_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/0da1e0c812e16887.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/71a5d813
+生成ts成功
+开始生成切片0da1e0c812e16887.m3u8
+生成切片成功
+开始处理第7个文件[/data/original/zhiyi_shengli/20170515/xzy.sl4.04.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl4.04_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/1d90635f014ac617.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/c06f3eb0
+生成ts成功
+开始生成切片1d90635f014ac617.m3u8
+生成切片成功
+开始处理第8个文件[/data/original/zhiyi_shengli/20170515/xzy.sl3.01.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl3.01_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/c79416ad6595c051.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/39ae8ee6
+生成ts成功
+开始生成切片c79416ad6595c051.m3u8
+生成切片成功
+开始处理第9个文件[/data/original/zhiyi_shengli/20170515/xzy.sl2.01.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl2.01_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/76bc4bbb41b6ce5d.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/70c5ddf5
+生成ts成功
+开始生成切片76bc4bbb41b6ce5d.m3u8
+生成切片成功
+开始处理第10个文件[/data/original/zhiyi_shengli/20170515/xzy.sl4.01.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl4.01_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/471f9baec3330833.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/4b9bb85c
+生成ts成功
+开始生成切片471f9baec3330833.m3u8
+生成切片成功
+开始处理第11个文件[/data/original/zhiyi_shengli/20170515/xzy.sl1.02.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl1.02_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/372aeb66b14948db.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/06004b50
+生成ts成功
+开始生成切片372aeb66b14948db.m3u8
+生成切片成功
+开始处理第12个文件[/data/original/zhiyi_shengli/20170515/xzy.sl3.04.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl3.04_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/1d3db044db425b80.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/b7be9da3
+生成ts成功
+开始生成切片1d3db044db425b80.m3u8
+生成切片成功
+开始处理第13个文件[/data/original/zhiyi_shengli/20170515/xzy.sl2.04.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl2.04_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/45cb37c604bde9a8.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/fc8559e5
+生成ts成功
+开始生成切片45cb37c604bde9a8.m3u8
+生成切片成功
+开始处理第14个文件[/data/original/zhiyi_shengli/20170515/xzy.sl3.02.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_shengli//xzy.sl3.02_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_shengli//20170601/2fb9b892de3278b2.jpg
+开始生成ts/data/hls/zhiyi_shengli//20170601/286786ad
+生成ts成功
+开始生成切片2fb9b892de3278b2.m3u8
+生成切片成功
+/data/hls/zhiyi_jineng//20170601/56f91488/f8307d1310d2d57c.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/110cda65/eba9c9caa78036ca.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/6a2fc3f0/cfad77c93c8d16ae.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/71a5d813/0da1e0c812e16887.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/c06f3eb0/1d90635f014ac617.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/39ae8ee6/c79416ad6595c051.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/70c5ddf5/76bc4bbb41b6ce5d.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/4b9bb85c/471f9baec3330833.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/06004b50/372aeb66b14948db.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/b7be9da3/1d3db044db425b80.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/fc8559e5/45cb37c604bde9a8.m3u8
+正在修改aes_m3u8文件
+/data/hls/zhiyi_shengli//20170601/286786ad/2fb9b892de3278b2.m3u8
+正在修改aes_m3u8文件
+输出日志到/root/shell/log/sql_zhiyi_shengli.log

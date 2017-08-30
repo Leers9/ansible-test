@@ -1,0 +1,12 @@
+---
+
+nginx_user:  nginx
+nginx_group: nginx
+
+nginx_packages: 
+  - nginx
+
+nginx_pid_file: /var/run/nginx.pid
+
+# vi:ts=2:sw=2:et:ft=yaml
+

@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/tcms/fanjixue/20170322
+OUTPUT_PATH=/data/hls/tcms/fanjixue/
+THUMB_PATH=/data/hls/thumb/tcms/fanjixue/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/tcms/fanjixue/
+APP_URL=http://m1.letiku.net/tcms/fanjixue/
+TMP_PATH=/data/fs_convert/tcms/fanjixue/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_tcms_fanjixue.log
+ERROR_LOG=~/shell/log/error_tcms_fanjixue.log

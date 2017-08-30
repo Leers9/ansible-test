@@ -1,0 +1,24 @@
+# << Ansible generated file >>
+
+{% for vhost in nginx_vhosts %}
+{%   if vhost.logrotate_enabled is defined and vhost.logrotate_enabled %}
+{{nginx_log_dir}}/{{vhost.server_name}}/*log {
+{%     if vhost.logrotate_directives is not defined %}
+  create 0644 {{nginx_user}} {{nginx_group}}
+  daily
+  rotate 30
+  missingok
+  delaycompress
+  compress
+  sharedscripts
+  postrotate
+    [ -s /run/nginx.pid ] && kill -USR1 `cat {{nginx_pid_file}}`
+  endscript
+{%     else %}
+  {{vhost.logrotate_directives}}
+{%     endif %}
+}
+{%   endif %}
+
+{% endfor %}
+

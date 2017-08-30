@@ -1,0 +1,76 @@
+#! /usr/bin/env python
+#! -*- coding:utf8 -*-
+""" aliyujn oss2 python sdk 上传测试测试!!"""
+from __future__ import print_function
+import oss2
+import os,sys
+
+# 初始化oss登录验证
+auth = oss2.Auth('LTAIYj7b9Fm1rrH2', '6rWkgQX8yiIDrOY70vcy19EUuHvjW2')
+
+# bucket地区服务对象,可用于线上该地区的bucket列表
+#service = oss2.Service(auth,'oss-cn-beijing-internal.aliyuncs.com')
+
+# 所有app模考bucket
+#html_bucket = oss2.Bucket(auth, 'oss-cn-beijing-internal.aliyuncs.com', 'mock')
+
+# 所有app图片bucket
+imgs_bucket = oss2.Bucket(auth, 'oss-cn-shanghai-internal.aliyuncs.com', 'yijiaoyuan-img')
+
+# 获取oss的版本控制
+#print([b.name for b in oss2.BucketIterator(service)])
+
+# 获取bucket的权限控制
+#print(imgs_bucket.get_bucket_acl().acl)
+
+###############################
+##     以上是初始化程序      ## 
+##---------------------------##            
+##   以下是oss bucket操作    ##
+###############################
+
+# 本地资源路径初始化
+apps = ('api.yijiaoyuan.net','passport.letiku.net','score.letiku.net','tcms.letiku.net','tcmsq.letiku.net','tiku.letiku.net','www.letiku.net','xiyizhiyeyishi.letiku.net','xiyizhulizyys.letiku.net','yijiaoyuan.letiku.net','yjy.yijiaoyuan.net')
+
+uploads_dirs = ['/www/web/' + 'test.' + app + '/Uploads' for app in apps]
+imgs_bucket_dirs = []
+imgs_bucket_files = []
+local_res_files= []
+
+# 获取要上传的图片的本地res的所有文件的绝对路径
+
+# 获取bucket上的文件和目录资源,因为bucket上没有文件夹的概念
+def get_res_on_bucket():
+	for obj in oss2.ObjectIterator(imgs_bucket,delimiter="/"):
+		if obj.is_prefix():
+			imgs_bucket_dirs.append(obj)
+			print('directory:' + obj.key)
+		else:
+			print('file:' + obj.key)
+			imgs_bucket_files.append(obj)
+
+# 上传文件
+def start():
+	for app_upload in uploads_dirs:
+		if os.path.exists(app_upload):
+			for res in os.listdir('app_upload'):
+				print res
+				#if os.path.isfile(res):
+					#file_uri = 
+					#local_res_files.append(
+					#imgs_bucket.put_object_from_file(app_upload,app_upload)
+			
+			#os.listdir(app_upload):
+			# 上传资源到指定的bucket,默认将子目录下的文件都一起上传
+			#imgs_bucket.put_object(app_upload,'a'*1024*1024,progress_callback=percentage)
+
+# 进度条功能
+def percentage(consumed_bytes, total_bytes):
+	if total_bytes:
+		rate = int(100* (float(consumed_bytes)) / (float(total_bytes)))
+		print ('\r{0}%'.format(rate),end='')
+		sys.stdout.flush()
+
+if __name__ == '__main__':
+	get_res_on_bucket()
+	start()

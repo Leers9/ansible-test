@@ -1,0 +1,12 @@
+---
+#
+# Install required packages
+#
+
+- name: Install Nginx (RedHat)
+  yum:
+    name:  "{{item}}"
+    state: "present"
+  with_items: "{{nginx_packages}}"
+
+# vi:ts=2:sw=2:et:ft=yaml

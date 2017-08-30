@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/liuzhongbao_zhibo_20170421/20170421/
+OUTPUT_PATH=/data/hls/liuzhongbao_zhibo_20170421/
+THUMB_PATH=/data/hls/thumb/liuzhongbao_zhibo_20170421/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/liuzhongbao_zhibo_20170421/
+APP_URL=http://m1.letiku.net/liuzhongbao_zhibo_20170421/
+TMP_PATH=/data/fs_convert/liuzhongbao_zhibo_20170421/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/liuzhongbao_zhibo_20170421/
+SQL_LOG= ~/shell/log/sql_liuzhongbao_zhibo_20170421.log
+ERROR_LOG=~/shell/log/error_liuzhongbao_zhibo_20170421.log

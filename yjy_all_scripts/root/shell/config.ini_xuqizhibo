@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/zhibo/xuqi/20170601
+OUTPUT_PATH=/data/hls/xuqizhibo/
+THUMB_PATH=/data/hls/thumb/xuqizhibo/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/xuqizhibo/
+APP_URL=http://m1.letiku.net/xuqizhibo/
+TMP_PATH=/data/fs_convert/xuqizhibo/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/xuqizhibo/
+SQL_LOG= ~/shell/log/sql_xuqizhibo.log
+ERROR_LOG=~/shell/log/error_xuqizhibo.log

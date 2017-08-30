@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/zhiyi_shengli/20170607
+OUTPUT_PATH=/data/hls/zhiyi_shengli/
+THUMB_PATH=/data/hls/thumb/zhiyi_shengli/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/zhiyi_shengli/
+APP_URL=http://m1.letiku.net/zhiyi_shengli/
+TMP_PATH=/data/fs_convert/zhiyi_shengli/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/zhiyi_shengli/
+SQL_LOG= ~/shell/log/sql_zhiyi_shengli.log
+ERROR_LOG=~/shell/log/error_zhiyi_shengli.log

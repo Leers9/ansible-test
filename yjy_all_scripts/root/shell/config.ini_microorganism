@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/xiyizhiyeyishi/microorganism/20170122
+OUTPUT_PATH=/data/hls/xiyizhiyeyishi/microorganism/
+THUMB_PATH=/data/hls/thumb/microorganism/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/xiyizhiyeyishi/microorganism/
+APP_URL=http://m1.letiku.net/xiyizhiyeyishi/microorganism/
+TMP_PATH=/data/fs_convert/xiyizhiyeyishi/microorganism/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_microorganism.log
+ERROR_LOG=~/shell/log/error_microorganism.log

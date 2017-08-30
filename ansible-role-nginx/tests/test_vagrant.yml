@@ -1,0 +1,136 @@
+---
+- hosts: all
+  become: yes
+
+  vars:
+    - nginx_context_main: |
+        worker_rlimit_nofile 4096;
+        worker_processes 1;
+    - nginx_no_log: false
+    - nginx_log_symlink_src: /mnt/log/nginx
+    - nginx_disable_vhosts:
+        - default
+    - nginx_vhosts:
+        - server_name: foo.com
+          default_server: true
+          access_log: "{{nginx_log_dir}}/othervhosts.log"
+          logrotate_enabled: true
+          server_aliases:
+            - www.foo.bar
+            - baz.foo.bar
+          root: /var/www/foo.com/html
+          log_fmt: test
+        
+        - server_name: sslfoo.com
+          server_aliases:
+            - www.sslfoo.bar
+          root: /var/www/sslfoo.com/html
+          ssl_enabled: true
+          certs:
+            key: |
+              -----BEGIN PRIVATE KEY-----
+              MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDE/xm+MDpvOSNw
+              IX9tATbB+qxisfWtcQgo20wIu4EJICJk3DJ56V8yMzG5a0x7SMmk1b2XMuls8FZv
+              Aj9NhtsNHW02iMMz8U/cy5H+8z+2dBLceHynkFse4KV7h7FqLDwKqsbXCCp5sO3c
+              suE43Jo2DVoCVNTDaUtCAMqelwIFHAvJVLT1OoaNiJD5T8G9r/IOgS0RCeWk0NvH
+              etnYtvwAvxtz+Y4tsSxAwLE+LgQtHdOpI/pdCa5P8SX37NHY/fbu95ESjYyMvybA
+              9TDqziUUx5V5iMDX9UYfOTI764S5aorjfy0Rt9fqlpnqmKRs1qXKosH0Zh555Bux
+              dTfi1cslAgMBAAECggEBAJBicNnGu219sY2j36NjOmEee26zBGAk8lgPs0DLPR4V
+              IWBPS+eytoUypIVEMYBCrxhTWGwTcqbX2GHwgbku2CpaoQtRXdEaUvB/e/gjDVWK
+              6bAR1ztxQHf3KxLJN62b0j33QVmlsIwUs6IIsa5dceGgE5KV3oODDxfHQLrP7zkS
+              NeRAiwf4KwdBL71Xka7/PN+DM6TtiIrZeSJTnE/1FjflTkG/noa6mHMS3z/fAMKP
+              9MctD5H+Qu/2LTDPofmH5kAQiV+CE2yGUHtIMvaUfxy7cl8/L9sQQzMPbdNhZQXP
+              LghYjAIFpnkf3nPr0WZtqXzrfGV5HWtO2H3ny4bkT8ECgYEA6Jvxx+L1rWltHMiR
+              7/lwGLA74DIzfQzme89+f+2g2fvImBWPf/aXrcoENHuSKmrTYbsijxQ7XKw+jZQu
+              BSuRKI1l+0jku6tm6l6+U8dKNjksqOJ5oiSklxbzXCj5m2rocAhGVTjkiq2jZ3Zw
+              OG9TCLQAsZ63Jd8Ue1obb/mk8z0CgYEA2M5hIOSsauLfT1FUgHonKcxFuyuZJI3i
+              nXkNkq4u97q8QqFgIWOd4nVwgeeSwUm2B/CpF/pQJxOPIwx+/WebxXsgA+VrMMxm
+              oYe4WXZnTeYMUhUdukpNCXJRJsfQIWYxEzzTEWnwwA3QRPhBQCMqx+9ZWdhzvorS
+              Kg2RGBXKFgkCgYEAnpXbNGUHDFBpRIt1+7767soQOFzhf6sw5E5lt0BCPvuLGizw
+              5dQwOxsU3Nc2otasAOB9wkCP7DG+f/X7nijC0Xv9gGGFGHHWO4mWhzXC4c7/JLEr
+              LiF/WUcbacTB0HUFvYPWt7mPDwEs+5fjEIbNfIyEQJSt1xMNOsAHHsN78x0CgYAv
+              44Y4ycn74hkJYCGWL2UvKlvMuBifpmeD+RUybR8awTiMTzD4rxRUzTQIvaoA39NB
+              dbsj/LpvpzZau4vhVV1nBYdQ1QAUS1HwJBZoTGsNHd9i0h864uaZS5L5SfGDLxtv
+              8GN+2TPAeEykr2FaVWpBt3C5E8KdN/SsLUr7UvTMYQKBgEgenppn2JsbYCmUjWlv
+              7Gora+L7JQwH2DLbQjrkKZVZYrOO8iMO0QR31jy5uQpKnUDZLnE3t7mjg9QXVOIB
+              VkAj0cgEdj/3lTuJGfriUCTdQwFSwjJKeXd6+Wcnreu7JARLkLluxeIRjlrDpTSr
+              rE91Os0bu8YS3+qFbQ2NmIzo
+              -----END PRIVATE KEY-----
+            crt: |
+              -----BEGIN CERTIFICATE-----
+              MIIDxTCCAq2gAwIBAgIJAKGUQu+mYQwzMA0GCSqGSIb3DQEBCwUAMHkxCzAJBgNV
+              BAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMQwwCgYDVQQHDANhc2QxITAfBgNV
+              BAoMGEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDENMAsGA1UECwwEdGVjaDEVMBMG
+              A1UEAwwMKi5zc2xmb28uY29tMB4XDTE1MDcyMDIzMzQ1NFoXDTE1MDgxOTIzMzQ1
+              NFoweTELMAkGA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxDDAKBgNVBAcM
+              A2FzZDEhMB8GA1UECgwYSW50ZXJuZXQgV2lkZ2l0cyBQdHkgTHRkMQ0wCwYDVQQL
+              DAR0ZWNoMRUwEwYDVQQDDAwqLnNzbGZvby5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+              A4IBDwAwggEKAoIBAQDE/xm+MDpvOSNwIX9tATbB+qxisfWtcQgo20wIu4EJICJk
+              3DJ56V8yMzG5a0x7SMmk1b2XMuls8FZvAj9NhtsNHW02iMMz8U/cy5H+8z+2dBLc
+              eHynkFse4KV7h7FqLDwKqsbXCCp5sO3csuE43Jo2DVoCVNTDaUtCAMqelwIFHAvJ
+              VLT1OoaNiJD5T8G9r/IOgS0RCeWk0NvHetnYtvwAvxtz+Y4tsSxAwLE+LgQtHdOp
+              I/pdCa5P8SX37NHY/fbu95ESjYyMvybA9TDqziUUx5V5iMDX9UYfOTI764S5aorj
+              fy0Rt9fqlpnqmKRs1qXKosH0Zh555BuxdTfi1cslAgMBAAGjUDBOMB0GA1UdDgQW
+              BBRGl2Y0n1sj6f/APX/e9PSlNhGDRjAfBgNVHSMEGDAWgBRGl2Y0n1sj6f/APX/e
+              9PSlNhGDRjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQB8NJnZWmyX
+              g1J7S6YcVxIBoX1d1gzvFn0N6w1L0BWTm+/skHGw0qxJ/gUPkOYFYxlxwekSgxRl
+              aSLl9S8hmLIVI/LZPzvFIGPjV9o/KqYUZuiGCXGDXrGP7fUuBMOdwSC3UN67q/0n
+              h4UdOSPN/zWdCS6VrRvgHK9XA39lWI7EdnXtZFVa+d5wjbVBhHQy6VG1ewxsfENe
+              +W3oPqULjoJQwo3dFx06179SxfK5x2+01DFEfbn1lHVSLgaRwugsK195Vz/LE1AU
+              8g5WFN/5+YJzDt5bypUycUH1Evyv93m1J9FePuP2kqVRx3XhvI4lXUZKaUI34qql
+              x1AtpNEaHJFj
+              -----END CERTIFICATE-----
+            ca: |
+              -----BEGIN CERTIFICATE-----
+              MIIDxTCCAq2gAwIBAgIJAKGUQu+mYQwzMA0GCSqGSIb3DQEBCwUAMHkxCzAJBgNV
+              BAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMQwwCgYDVQQHDANhc2QxITAfBgNV
+              BAoMGEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDENMAsGA1UECwwEdGVjaDEVMBMG
+              A1UEAwwMKi5zc2xmb28uY29tMB4XDTE1MDcyMDIzMzQ1NFoXDTE1MDgxOTIzMzQ1
+              NFoweTELMAkGA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxDDAKBgNVBAcM
+              A2FzZDEhMB8GA1UECgwYSW50ZXJuZXQgV2lkZ2l0cyBQdHkgTHRkMQ0wCwYDVQQL
+              DAR0ZWNoMRUwEwYDVQQDDAwqLnNzbGZvby5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+              A4IBDwAwggEKAoIBAQDE/xm+MDpvOSNwIX9tATbB+qxisfWtcQgo20wIu4EJICJk
+              3DJ56V8yMzG5a0x7SMmk1b2XMuls8FZvAj9NhtsNHW02iMMz8U/cy5H+8z+2dBLc
+              eHynkFse4KV7h7FqLDwKqsbXCCp5sO3csuE43Jo2DVoCVNTDaUtCAMqelwIFHAvJ
+              VLT1OoaNiJD5T8G9r/IOgS0RCeWk0NvHetnYtvwAvxtz+Y4tsSxAwLE+LgQtHdOp
+              I/pdCa5P8SX37NHY/fbu95ESjYyMvybA9TDqziUUx5V5iMDX9UYfOTI764S5aorj
+              fy0Rt9fqlpnqmKRs1qXKosH0Zh555BuxdTfi1cslAgMBAAGjUDBOMB0GA1UdDgQW
+              BBRGl2Y0n1sj6f/APX/e9PSlNhGDRjAfBgNVHSMEGDAWgBRGl2Y0n1sj6f/APX/e
+              9PSlNhGDRjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQB8NJnZWmyX
+              g1J7S6YcVxIBoX1d1gzvFn0N6w1L0BWTm+/skHGw0qxJ/gUPkOYFYxlxwekSgxRl
+              aSLl9S8hmLIVI/LZPzvFIGPjV9o/KqYUZuiGCXGDXrGP7fUuBMOdwSC3UN67q/0n
+              h4UdOSPN/zWdCS6VrRvgHK9XA39lWI7EdnXtZFVa+d5wjbVBhHQy6VG1ewxsfENe
+              +W3oPqULjoJQwo3dFx06179SxfK5x2+01DFEfbn1lHVSLgaRwugsK195Vz/LE1AU
+              8g5WFN/5+YJzDt5bypUycUH1Evyv93m1J9FePuP2kqVRx3XhvI4lXUZKaUI34qql
+              x1AtpNEaHJFj
+              -----END CERTIFICATE-----
+          http_directives: |
+              return 301 https://www.sslfoo.com;
+
+          https_directives: |
+              access_log off;
+
+    - nginx_cache_dirs:
+        a_cache:
+          prefix: /opt/cache/nginx
+
+    - nginx_config:
+        log_format: |
+          log_format test '$remote_addr - $remote_user [$time_local] '
+            '"$request" $status $body_bytes_sent '
+            '"$http_referer" "$http_user_agent" '
+            '"$http_x_forwarded_for" $request_time';
+
+        caching: |
+          proxy_cache_path
+            {{nginx_cache_dirs.a_cache.prefix}} 
+            levels=1:2 
+            keys_zone=a_cache:100m 
+            inactive=60m;
+
+  roles:
+    - {
+        role: ansible-role-nginx
+      }
+
+# vi:ts=2:sw=2:et:ft=yaml

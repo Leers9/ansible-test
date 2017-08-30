@@ -1,0 +1,11 @@
+开始处理第1个文件[/data/original/liuzhongbao_zhibo/20170519/liuzhongbaozhibo5.18.mp4]
+开始转码生成临时文件/data/fs_convert/liuzhongbao_zhibo//liuzhongbaozhibo5.18_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/liuzhongbao_zhibo//20170519/2cf799af4354f717.jpg
+开始生成ts/data/hls/liuzhongbao_zhibo//20170519/2bb1e4b7
+生成ts成功
+开始生成切片2cf799af4354f717.m3u8
+生成切片成功
+/data/hls/liuzhongbao_zhibo//20170519/2bb1e4b7/2cf799af4354f717.m3u8
+正在修改aes_m3u8文件
+输出日志到/root/shell/log/sql_liuzhongbao_zhibo.log

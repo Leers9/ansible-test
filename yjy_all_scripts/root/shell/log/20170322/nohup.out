@@ -1,0 +1,45 @@
++ sh_dir=/root/shell
++ sh_convert_file=/root/shell/m_fs_convert_mixed.sh
++ config_pre=/root/shell/config.ini_
++ config_ini=(tcms_base zhiyi_neike)
++ make_video
++ for config in '${config_ini[@]}'
++ '[' '!' -f /root/shell/config.ini_tcms_base ']'
++ /root/shell/m_fs_convert_mixed.sh /root/shell/config.ini_tcms_base
+开始处理第1个文件[/data/original/tcms_base/20170323/zj_7_0.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_base//zj_7_0_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_base//20170322/02ebf1488ac79ee4.jpg
+开始生成ts/data/hls/tcms_base//20170322/f6440c2c
+生成ts成功
+开始生成切片02ebf1488ac79ee4.m3u8
+生成切片成功
+开始处理第2个文件[/data/original/tcms_base/20170323/zj_6_0.mp4]
+开始转码生成临时文件/data/fs_convert/tcms_base//zj_6_0_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/tcms_base//20170322/49cb475f86c6b321.jpg
+开始生成ts/data/hls/tcms_base//20170322/491c7372
+生成ts成功
+开始生成切片49cb475f86c6b321.m3u8
+生成切片成功
+输出日志到/root/shell/log/sql_tcms_base.log
++ for config in '${config_ini[@]}'
++ '[' '!' -f /root/shell/config.ini_zhiyi_neike ']'
++ /root/shell/m_fs_convert_mixed.sh /root/shell/config.ini_zhiyi_neike
+开始处理第1个文件[/data/original/zhiyi_neike/20170322/jjnk_5_0.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_neike//jjnk_5_0_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_neike//20170322/8e1df7ca92f73e35.jpg
+开始生成ts/data/hls/zhiyi_neike//20170322/c403d5b7
+生成ts成功
+开始生成切片8e1df7ca92f73e35.m3u8
+生成切片成功
+开始处理第2个文件[/data/original/zhiyi_neike/20170322/jjnk_4_0.mp4]
+开始转码生成临时文件/data/fs_convert/zhiyi_neike//jjnk_4_0_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/zhiyi_neike//20170322/c27cc1e02158cc1d.jpg
+开始生成ts/data/hls/zhiyi_neike//20170322/e46571fb
+生成ts成功
+开始生成切片c27cc1e02158cc1d.m3u8
+生成切片成功
+输出日志到/root/shell/log/sql_zhiyi_neike.log

@@ -1,0 +1,11 @@
+/data/hls/iwm/physiology/20170113/0e639783/b974c608dc4aa2b9.m3u8
+/data/hls/iwm/physiology/20170113/b10495b3/16e1980ef4bc8fc1.m3u8
+/data/hls/iwm/physiology/20170113/8eaef0f0/4e8f65a4f9dc77f9.m3u8
+/data/hls/iwm/physiology/20170113/8a8b0383/4d6efeacc6cb7fcd.m3u8
+/data/hls/iwm/physiology/20170113/f77bb6c9/b10b734f5f15f842.m3u8
+/data/hls/iwm/physiology/20170113/e8cd9b8d/89070324c73406ad.m3u8
+/data/hls/iwm/physiology/20170113/9aae41e2/68c3940f9e7bdb1b.m3u8
+/data/hls/iwm/physiology/20170113/e3f8adcd/e23759a620357b07.m3u8
+/data/hls/iwm/physiology/20170113/c9678cd8/6c472c0b4dcfde93.m3u8
+/data/hls/iwm/physiology/20170113/c639584a/eb561fb505438629.m3u8
+/data/hls/iwm/physiology/20170113/5dd2698c/e3971d5344d299cc.m3u8

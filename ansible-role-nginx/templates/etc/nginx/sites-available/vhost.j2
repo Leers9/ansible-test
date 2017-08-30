@@ -1,0 +1,45 @@
+# << Ansible generated file >>
+
+server {
+
+  listen {{item.listen|default('80')}} {% if item.default_server is defined and item.default_server %}default_server{% endif %};
+  server_name {{item.server_name}}
+{% if item.server_aliases is defined %}
+{%   for a in item.server_aliases %}
+    {{a}}
+{%-   endfor %}
+{%- endif %};
+
+{% if item.root is defined %}
+  root {{item.root}};
+{% endif %}
+
+  access_log {{item.access_log | default('%s/%s/access_log' % (nginx_log_dir, item.server_name))}} {{item.log_fmt|default('')}};
+  error_log  {{item.error_log  | default('%s/%s/error_log' % (nginx_log_dir,item.server_name))}};
+
+  {{item.http_directives|default('')|indent(width = 2)}}
+}
+
+{% if item.ssl_enabled is defined and item.ssl_enabled %}
+server {
+
+  listen {{item.listen_ssl|default('443')}} {% if item.default_server is defined and item.default_server %}default_server{% endif %};
+  server_name {{item.server_name}};
+
+  ssl on;
+  ssl_certificate         {{nginx_ssl_dir}}/{{item.server_name}}.pem;
+  ssl_certificate_key     {{nginx_ssl_dir}}/{{item.server_name}}.key;
+  
+{% if item.root is defined %}
+  root {{item.root}};
+{% endif %}
+
+  access_log {{item.access_log | default('%s/%s/access_log' % (nginx_log_dir, item.server_name))}} {{item.log_fmt|default('')}};
+  error_log  {{item.error_log  | default('%s/%s/error_log' % (nginx_log_dir,item.server_name))}};
+
+  {{item.https_directives|default('')|indent(width = 2)}}
+
+}
+{% endif %}
+
+# vi:ts=2:sw=2:et:

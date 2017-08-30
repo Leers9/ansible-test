@@ -1,0 +1,17 @@
+寤虹瓚涓婄嚎鍓嶆竻绌虹敤鎴锋暟鎹細
+    yjy_answer_user_0       娓呯┖鐢ㄦ埛琛?
+    yjy_collection_user_0   娓呯┖鏀惰棌琛?
+    yjy_feedback            娓呯┖鍙嶉淇℃伅琛?
+    yjy_message             娓呯┖娑堟伅琛?
+    yjy_note_user_0         娓呯┖鐢ㄦ埛绗旇琛?
+    yjy_question_comment    娓呯┖闂璇勮琛?
+    yjy_question_comment_info_0 娓呯┖璇勮璇︾粏琛?
+    yjy_question_count      娓呯┖绛旈缁熻琛?
+    yjy_question_digg_0     娓呯┖鐐硅禐琛?
+    yjy_question_feedback   娓呯┖棰樺簱瑙ｆ瀽鍙嶉
+    yjy_sendsms             娓呯┖鐭俊琛?
+    yjy_temp_answer         娓呯┖涓存椂绛旈琛?
+    yjy_unlock              娓呯┖瑙ｉ攣琛?
+    yjy_user_0              娓呯┖鐢ㄦ埛琛?
+    yjy_user_login          娓呯┖鐢ㄦ埛鐧诲綍琛?
+    yjy_user_oauth          娓呯┖鐢ㄦ埛鎺堟潈琛?

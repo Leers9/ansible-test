@@ -1,0 +1,23 @@
+user  {{nginx_user}};
+pid   {{nginx_pid_file}};
+
+{{nginx_context_main|default(nginx_context_main_default)}}
+
+events {
+  {{nginx_context_events|default(nginx_context_events_default)|indent(width = 2)}}
+}
+
+http {
+
+  {{nginx_context_http|default(nginx_context_http_default)|indent(width = 2)}}
+
+  ##
+  # Logging Settings
+  ##
+
+  access_log {{nginx_log_dir}}/access_log;
+  error_log {{nginx_log_dir}}/error_log;
+
+  include /etc/nginx/conf.d/*.conf;
+  include /etc/nginx/sites-enabled/*;
+}

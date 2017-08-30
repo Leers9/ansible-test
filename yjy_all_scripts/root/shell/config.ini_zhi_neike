@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/zhi_neike/20170527/
+OUTPUT_PATH=/data/hls/zhi_neike/
+THUMB_PATH=/data/hls/thumb/zhi_neike/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/zhi_neike/
+APP_URL=http://m1.letiku.net/zhi_neike/
+TMP_PATH=/data/fs_convert/zhi_neike/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/zhi_neike/
+SQL_LOG= ~/shell/log/sql_zhi_neike.log
+ERROR_LOG=~/shell/log/error_zhi_neike.log

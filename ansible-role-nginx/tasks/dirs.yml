@@ -1,0 +1,79 @@
+---
+
+- name: Nginx site directories
+  file:
+    state: directory
+    dest:  "{{item}}"
+    owner: "{{nginx_user}}"
+    group: "{{nginx_group}}"
+    mode:  "0755"
+  with_items:
+    - "{{nginx_sites_available}}"
+    - "{{nginx_sites_enabled}}"
+ 
+
+- name: Nginx conf.d directory
+  file:
+    state: directory
+    dest:  "{{nginx_config_dir}}"
+    owner: "root"
+    group: "{{nginx_group}}"
+    mode:  "0755"
+
+
+- name: Nginx SSL directory
+  file:
+    state: directory
+    dest:  "{{nginx_ssl_dir}}"
+    owner: "root"
+    group: "{{nginx_group}}"
+    mode:  "0750"
+
+
+- name: Nginx Caching directories
+  file:
+    state: directory
+    dest:  "{{item.value.prefix}}"
+    owner: "{{nginx_user}}"
+    group: "{{nginx_group}}"
+    mode:  "{{item.value.mode|default('0750')}}"
+  with_dict: "{{nginx_cache_dirs}}"
+
+
+- name: Nginx Log directory stat
+  stat:
+    path: "{{nginx_log_dir}}"
+  register: _nginx_log_dir
+  
+# If nginx_log_dir exists and has some content, the file module will refuse
+# to force the symlink. This way, contents will be kept.
+#
+- name: Nginx Log directory save contents
+  command: >
+    mv {{nginx_log_dir}} {{nginx_log_dir}}.bkp
+  when: (_nginx_log_dir.stat.isdir) and (nginx_log_symlink_src != False)
+
+# If nginx_log_symlink_src is other than False, create the directory
+# (most likely on a different filesystem). If it is set to False, then
+# just make sure that nginx_log_dir exists.
+#
+- name: Nginx Log directory
+  file:
+    state:  directory
+    dest:  "{{ (nginx_log_symlink_src != False) | ternary(nginx_log_symlink_src, nginx_log_dir) }}"
+    owner: "{{nginx_user}}"
+    group: "{{nginx_group}}"
+    mode:  "0755"
+
+- name: Nginx Log directory symlink
+  file:
+    state: link
+    force: yes
+    src:   "{{nginx_log_symlink_src}}"
+    dest:  "{{nginx_log_dir}}"
+    owner: "{{nginx_user}}"
+    group: "{{nginx_group}}"
+  when: nginx_log_symlink_src != False
+
+
+# vi:ts=2:sw=2:et:ft=yaml

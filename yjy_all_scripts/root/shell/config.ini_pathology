@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/pathology/20170129
+OUTPUT_PATH=/data/hls/pathology/
+THUMB_PATH=/data/hls/thumb/athology/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/pathology/
+APP_URL=http://m1.letiku.net/pathology/
+TMP_PATH=/data/fs_convert/pathology
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_pathology.log
+ERROR_LOG=~/shell/log/error_pathology.log

@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  author: Emiliano Castagnari
+  description: Ansible role for Nginx
+  license: Apache
+  min_ansible_version: 1.8
+  platforms:
+  - name: Debian
+      - Wheezy
+      - Jessie
+  - name: Ubuntu
+    versions:
+      - trusty
+  - name: EL
+    versions:
+      - 6
+      - 7
+  categories:
+    - web
+
+dependencies: []

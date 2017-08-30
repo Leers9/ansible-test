@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/xiyizhiyeyishi/fuchangke/20170122
+OUTPUT_PATH=/data/hls/xiyizhiyeyishi/fuchangke/
+THUMB_PATH=/data/hls/thumb/fuchangke/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/xiyizhiyeyishi/fuchangke/
+APP_URL=http://m1.letiku.net/xiyizhiyeyishi/fuchangke/
+TMP_PATH=/data/fs_convert/xiyizhiyeyishi/fuchangke/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_fuchangke.log
+ERROR_LOG=~/shell/log/error_fuchangke.log

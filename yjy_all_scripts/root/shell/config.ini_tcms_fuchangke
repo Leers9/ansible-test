@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/tcms_fuchangke/20170524
+OUTPUT_PATH=/data/hls/tcms_fuchangke/
+THUMB_PATH=/data/hls/thumb/tcms_fuchangke/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/tcms_fuchangke/
+APP_URL=http://m1.letiku.net/tcms_fuchangke/
+TMP_PATH=/data/fs_convert/tcms_fuchangke/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/tcms_fuchangke/
+SQL_LOG= ~/shell/log/sql_tcms_fuchangke.log
+ERROR_LOG=~/shell/log/error_tcms_fuchangke.log

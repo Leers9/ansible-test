@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/tcms_jineng/20170601
+OUTPUT_PATH=/data/hls/tcms_jineng/
+THUMB_PATH=/data/hls/thumb/tcms_jineng/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/tcms_jineng/
+APP_URL=http://m1.letiku.net/tcms_jineng/
+TMP_PATH=/data/fs_convert/tcms_jineng/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/tcms_jineng/
+SQL_LOG= ~/shell/log/sql_tcms_jineng.log
+ERROR_LOG=~/shell/log/error_tcms_jineng.log

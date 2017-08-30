@@ -1,0 +1,17 @@
+开始处理第1个文件[/data/original/xiyizonghe/fushishicao/20170228/fszhidao1.mp4]
+开始转码生成临时文件/data/fs_convert/xiyizonghe/fushishicao//fszhidao1_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/xiyizonghe/fushishicao//20170228/ee154ca20345b932.jpg
+开始生成ts/data/hls/xiyizonghe/fushishicao//20170228/ffbe508a
+生成ts成功
+开始生成切片ee154ca20345b932.m3u8
+生成切片成功
+开始处理第2个文件[/data/original/xiyizonghe/fushishicao/20170228/fszhidao2.mp4]
+开始转码生成临时文件/data/fs_convert/xiyizonghe/fushishicao//fszhidao2_tmp.mp4
+转码成功
+生成缩略图/data/hls/thumb/xiyizonghe/fushishicao//20170228/b6d2d74bfb76bc98.jpg
+开始生成ts/data/hls/xiyizonghe/fushishicao//20170228/33364087
+生成ts成功
+开始生成切片b6d2d74bfb76bc98.m3u8
+生成切片成功
+输出日志到/root/shell/log/sql_xiyizonghe_fushishicao.log

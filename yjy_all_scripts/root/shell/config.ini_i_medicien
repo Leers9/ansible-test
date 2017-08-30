@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/i_medicien/20170420
+OUTPUT_PATH=/data/hls/i_medicien/
+THUMB_PATH=/data/hls/thumb/i_medicien/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/i_medicien/
+APP_URL=http://m1.letiku.net/i_medicien/
+TMP_PATH=/data/fs_convert/i_medicien
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_i_medicien.log
+ERROR_LOG=~/shell/log/error_i_medicien.log

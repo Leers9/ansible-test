@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/surgery/20170421
+OUTPUT_PATH=/data/hls/iwm/surgery/
+THUMB_PATH=/data/hls/thumb/surgery/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/iwm/surgery/
+APP_URL=http://m1.letiku.net/iwm/surgery/
+TMP_PATH=/data/fs_convert/surgery
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_surgery.log
+ERROR_LOG=~/shell/log/error_surgery.log

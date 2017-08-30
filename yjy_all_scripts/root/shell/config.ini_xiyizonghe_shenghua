@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/xiyizonghe_shenghua/20170608/
+OUTPUT_PATH=/data/hls/xiyizonghe_shenghua/
+THUMB_PATH=/data/hls/thumb/xiyizonghe_shenghua/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/xiyizonghe_shenghua/
+APP_URL=http://m1.letiku.net/xiyizonghe_shenghua/
+TMP_PATH=/data/fs_convert/xiyizonghe_shenghua/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/xiyizonghe_shenghua/
+SQL_LOG= ~/shell/log/sql_xiyizonghe_shenghua.log
+ERROR_LOG=~/shell/log/error_xiyizonghe_shenghua.log

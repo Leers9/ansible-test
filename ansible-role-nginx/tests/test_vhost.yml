@@ -1,0 +1,24 @@
+---
+- hosts: all
+  become: yes
+
+  vars:
+    - nginx_context_main: |
+        worker_rlimit_nofile 4096;
+        worker_processes 1;
+    - nginx_no_log: false
+    - nginx_disable_vhosts:
+      - default
+    - nginx_vhosts:
+        - server_name: foo.com
+          server_aliases:
+            - www.foo.bar
+            - baz.foo.bar
+          root: /var/www/foo.com/html
+        
+  roles:
+    - {
+        role: ansible-role-nginx
+      }
+
+# vi:ts=2:sw=2:et:ft=yaml

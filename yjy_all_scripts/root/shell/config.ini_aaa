@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/aaa/20170331/
+OUTPUT_PATH=/data/hls/aaa/
+THUMB_PATH=/data/hls/thumb/aaa/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/aaa/
+APP_URL=http://m1.letiku.net/aaa/
+TMP_PATH=/data/fs_convert/aaa/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/aaa/
+SQL_LOG= ~/shell/log/sql_aaa.log
+ERROR_LOG=~/shell/log/error_aaa.log

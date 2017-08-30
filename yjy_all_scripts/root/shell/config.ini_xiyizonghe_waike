@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/xiyizonghe_waike/20170608
+OUTPUT_PATH=/data/hls/xiyizonghe_waike/
+THUMB_PATH=/data/hls/thumb/xiyizonghe_waike/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/xiyizonghe_waike/
+APP_URL=http://m1.letiku.net/xiyizonghe_waike/
+TMP_PATH=/data/fs_convert/xiyizonghe_waike/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/xiyizonghe_waike/
+SQL_LOG= ~/shell/log/sql_xiyizonghe_waike.log
+ERROR_LOG=~/shell/log/error_xiyizonghe_waike.log

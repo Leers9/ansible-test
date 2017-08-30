@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/xiyizhiyeyishi/paediatrics/20170417
+OUTPUT_PATH=/data/hls/xiyizhiyeyishi/paediatrics/
+THUMB_PATH=/data/hls/thumb/paediatrics/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/xiyizhiyeyishi/paediatrics/
+APP_URL=http://m1.letiku.net/xiyizhiyeyishi/paediatrics/
+TMP_PATH=/data/fs_convert/xiyizhiyeyishi/paediatrics/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_paediatrics.log
+ERROR_LOG=~/shell/log/error_paediatrics.log

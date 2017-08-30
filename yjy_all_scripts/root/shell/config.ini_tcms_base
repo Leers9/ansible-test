@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/tcms_base/20170425/
+OUTPUT_PATH=/data/hls/tcms_base/
+THUMB_PATH=/data/hls/thumb/tcms_base/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/tcms_base/
+APP_URL=http://m1.letiku.net/tcms_base/
+TMP_PATH=/data/fs_convert/tcms_base/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/tcms_base/
+SQL_LOG= ~/shell/log/sql_tcms_base.log
+ERROR_LOG=~/shell/log/error_tcms_base.log

@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/tcms_fangjixue/20170608
+OUTPUT_PATH=/data/hls/tcms_fangjixue/
+THUMB_PATH=/data/hls/thumb/tcms_fangjixue/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/tcms_fangjixue/
+APP_URL=http://m1.letiku.net/tcms_fangjixue/
+TMP_PATH=/data/fs_convert/tcms_fangjixue/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/tcms_fangjixue/
+SQL_LOG= ~/shell/log/sql_tcms_fangjixue.log
+ERROR_LOG=~/shell/log/error_tcms_fangjixue.log

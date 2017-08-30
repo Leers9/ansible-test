@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/tcms_zhenjiu/20170620/
+OUTPUT_PATH=/data/hls/tcms_zhenjiu/
+THUMB_PATH=/data/hls/thumb/tcms_zhenjiu/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/tcms_zhenjiu/
+APP_URL=http://m1.letiku.net/tcms_zhenjiu/
+TMP_PATH=/data/fs_convert/tcms_zhenjiu/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/tcms_zhenjiu/
+SQL_LOG= ~/shell/log/sql_tcms_zhenjiu.log
+ERROR_LOG=~/shell/log/error_tcms_zhenjiu.log

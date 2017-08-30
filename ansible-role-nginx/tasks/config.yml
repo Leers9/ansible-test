@@ -1,0 +1,32 @@
+---
+
+- name: Nginx main configuration file
+  template:
+    src:   etc/nginx/nginx.conf.j2
+    dest:  "{{nginx_prefix}}/nginx.conf"
+    owner: "root"
+    group: "{{nginx_group}}"
+    mode:  "0644"
+  notify: nginx restart
+ 
+
+- name: Nginx configuration includes
+  template:
+    src:   etc/nginx/conf.d/conf.j2
+    dest:  "{{nginx_config_dir}}/{{item.key}}.conf"
+    owner: "root"
+    group: "{{nginx_group}}"
+    mode:  "0644"
+  with_dict: "{{nginx_config}}"
+  notify: nginx restart
+  
+
+- name: Nginx OS family config (Debian)
+  include: config/Debian.yml
+  when: ansible_os_family == 'Debian'
+
+- name: Nginx OS family config (Redhat)
+  include: config/RedHat.yml
+  when: ansible_os_family == 'RedHat'
+
+# vi:ts=2:sw=2:et:ft=yaml

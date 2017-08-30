@@ -1,0 +1,12 @@
+---
+
+- name: nginx start
+  service: name=nginx state=started
+
+- name: nginx stop
+  service: name=nginx state=stopped
+
+- name: nginx restart
+  service: name=nginx state=restarted
+
+# vi:ts=2:sw=2:et:ft=yaml

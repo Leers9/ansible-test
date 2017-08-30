@@ -1,0 +1,19 @@
+#!/bin/bash
+# 统计当前的各tcp连接连接数包括TIME_WAIT
+# SYN_RECV
+SYN_RECV=`netstat -antp | awk '{print $6}' | sort -nr | awk 'BEGIN{total=0}{if($1=="SYN_RECV"){total+=1}}END{print "SYN_RECV:"total}'`
+#LISTEN
+LISTEN=`netstat -antp | awk '{print $6}' | sort -nr | awk 'BEGIN{total=0}{if($1=="LISTEN"){total+=1}}END{print "LISTEN:"total}'`
+#LAST_ACK
+LAST_ACK=`netstat -antp | awk '{print $6}' | sort -nr | awk 'BEGIN{total=0}{if($1=="LAST_ACK"){total+=1}}END{print "LAST_ACK:"total}'`
+#Foreign
+Foreign=`netstat -antp | awk '{print $6}' | sort -nr | awk 'BEGIN{total=0}{if($1=="Foreign"){total+=1}}END{print "Foreign:"total}'`
+#FIN_WAIT2
+FIN_WAIT2=`netstat -antp | awk '{print $6}' | sort -nr | awk 'BEGIN{total=0}{if($1=="FIN_WAIT2"){total+=1}}END{print "FIN_WAIT2:"total}'`
+#FIN_WAIT1
+FIN_WAIT1=`netstat -antp | awk '{print $6}' | sort -nr | awk 'BEGIN{total=0}{if($1=="FIN_WAIT1"){total+=1}}END{print "FIN_WAIT1:"total}'`
+#ESTABLISHED
+ESTABLISHED=`netstat -antp | awk '{print $6}' | sort -nr | awk 'BEGIN{total=0}{if($1=="ESTABLISHED"){total+=1}}END{print "ESTABLISHED:"total}'`
+#established)
+established=`netstat -antp | awk '{print $6}' | sort -nr | awk 'BEGIN{total=0}{if($1=="established)"){total+=1}}END{print "established):"total}'`
+echo -e "$SYN_RECV\n$LISTEN\n$LAST_ACK\n$Foreign\n$FIN_WAIT2\n$FIN_WAIT1\n$ESTABLISHED\n$established"

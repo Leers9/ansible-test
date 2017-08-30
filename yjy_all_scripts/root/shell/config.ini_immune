@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/xiyizhiyeyishi/immune/20170122
+OUTPUT_PATH=/data/hls/xiyizhiyeyishi/immune/
+THUMB_PATH=/data/hls/thumb/immune/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/xiyizhiyeyishi/immune/
+APP_URL=http://m1.letiku.net/xiyizhiyeyishi/immune/
+TMP_PATH=/data/fs_convert/xiyizhiyeyishi/immune/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_immune.log
+ERROR_LOG=~/shell/log/error_immune.log
